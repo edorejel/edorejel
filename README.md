@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @edorejel, M.S.C.S.
+- 👋 Hi, I’m Ed Orejel, M.S.C.S.
 - 👀 I’m interested in yoga, working out, mountain biking, blogging, and other things.
 - 🌱 I’m currently learning a lot; learning never ends.
 - :pencil: https://edorejel.blogspot.com/
