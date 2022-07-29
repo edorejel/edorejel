@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @edorejel
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in yoga, working out, mountain biking, & other things.
+- 🌱 I’m currently learning a lot; learning never ends.
 - :pencil: https://edorejel.blogspot.com/
 - :dart: https://www.linkedin.com/in/edorejel/
 
