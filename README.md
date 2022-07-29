@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @edorejel
-- 👀 I’m interested in yoga, working out, mountain biking, and other things.
+- 👀 I’m interested in yoga, working out, mountain biking, blogging, and other things.
 - 🌱 I’m currently learning a lot; learning never ends.
 - :pencil: https://edorejel.blogspot.com/
 - :dart: https://www.linkedin.com/in/edorejel/
