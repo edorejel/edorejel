@@ -7,6 +7,7 @@
 - :pencil: Diversity Statement - coming soon!
 - :pencil: Equity Statement - coming soon!
 - :pencil: Sample Syllabus - coming soon!
+- :point_right: Oh yeah, forgot to tell you, I'll be the best teacher/college lecturer that you could ever have.
 
 
 <!---
