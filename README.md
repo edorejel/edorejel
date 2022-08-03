@@ -9,8 +9,8 @@
 - :man_teacher: My Tentative Teaching Schedule for Fall 2023 Semester:
 - - :file_folder: Robotics 101 https://github.com/edorejel/advanced-programming/tree/main/robotics101
 - :link: My Links
-- :pencil: My Blog: https://edorejel.blogspot.com/
-- :dart: My LinkedIn: https://www.linkedin.com/in/edorejel/
+- - :pencil: My Blog: https://edorejel.blogspot.com/
+- - :dart: My LinkedIn: https://www.linkedin.com/in/edorejel/
 - :point_right: Oh yeah, forgot to tell you, I'll be the best teacher/college lecturer that you could ever have. All my energy and effort are so that you go to college, and become a college graduate.
 
 
