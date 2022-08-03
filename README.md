@@ -14,3 +14,6 @@
 edorejel/edorejel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+- :man_teacher: My Tentative Teaching Schedule for Fall 2023 Semester:
+- :file_folder: Robotics 101 https://github.com/edorejel/advanced-programming/tree/main/robotics101
