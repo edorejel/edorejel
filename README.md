@@ -6,6 +6,7 @@
 - :pencil: Diversity Statement - coming soon!
 - :pencil: Equity Statement - coming soon!
 - :pencil: Sample Syllabus - coming soon!
+- :pencil: CV - coming soon!
 - :man_teacher: My Tentative Teaching Schedule for Fall 2023 Semester:
 - - :file_folder: Robotics 101 https://github.com/edorejel/advanced-programming/tree/main/robotics101
 - - :file_folder: Computer Science 101 https://github.com/edorejel/Python/tree/main/cs101
