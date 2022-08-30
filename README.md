@@ -12,7 +12,7 @@
 
 - :man_teacher: My Tentative Teaching Schedule for Fall 2023 Semester:
 - - :file_folder: Robotics 101 https://github.com/edorejel/advanced-programming/tree/main/robotics101
-- - :file_folder: Computer Science 101 https://github.com/edorejel/Python/tree/main/cs101
+- - :file_folder: Python 101 https://github.com/edorejel/Python/tree/main/Python101
 - - :file_folder: Advanced C++ Programming https://github.com/edorejel/C-plus-plus/tree/main/C%2B%2B103
 - - :file_folder: Beginner Java https://github.com/edorejel/Java/tree/main/Java101#java-101-beginner-java
 
