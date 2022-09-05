@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ed Orejel, M.S.C.S.
+- 👋 Hi, I’m Ed Orejel, M.S.C.S. (Master of Science in Computer Science)
 - 👀 I’m interested in yoga, working out, meditation, auto mechanics, mountain biking, blogging, and other things.
 - 🌱 I’m currently learning a lot; learning never ends.
 
