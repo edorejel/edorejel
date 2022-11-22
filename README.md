@@ -8,6 +8,7 @@
 - :pencil: Sample Syllabus - coming soon!
 - :pencil: CV - coming soon!
 - :pencil: Projects - coming soon!
+- :pencil: Dear Struggling Student Letter - coming soon!
 
 
 - :man_teacher: My Tentative Teaching Schedule for Fall 2023 Semester:
