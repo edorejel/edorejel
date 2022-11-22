@@ -9,6 +9,7 @@
 - :pencil: CV - coming soon!
 - :pencil: Projects - coming soon!
 - :pencil: Dear Struggling Student Letter - coming soon!
+- :pencil: Sample Programming Research Prompt for Beginner-Level Programmers- coming soon! 
 
 
 - :man_teacher: My Tentative Teaching Schedule for Fall 2023 Semester:
