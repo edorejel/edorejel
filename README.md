@@ -8,6 +8,7 @@
 - :pencil: Sample Syllabus - coming soon!
 - :pencil: CV - coming soon!
 - :pencil: Projects - coming soon!
+- :pencil: Welcome Letter to my future college students - coming soon!
 - :pencil: Dear Struggling Student Letter - https://github.com/edorejel/teaching_docs/blob/main/Dear%20Struggling%20Student_finished-2.pdf
 - :pencil: Sample Programming Research Prompt for Beginner-Level Programmers - coming soon! 
 
