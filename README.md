@@ -9,10 +9,12 @@
 - :pencil: CV - coming soon!
 - :pencil: Projects - coming soon!
 - :video_camera: Video Interview Sample Lectures
+- - The video lectures below will serve as interview lectures for academic career related issues. 
 - - Python Functions - coming soon!
 - - Java Methods - coming soon!
 - - Arrays - coming soon!
 - - Object Oriented Programming - coming soon!
+- 📹 My Computer Science Lecture Videos - coming soon!
 - :pencil: Welcome Letter to my future college students - coming soon!
 - - This letter serves as a Welcome Letter to my college students.
 - :pencil: Dear Struggling Student Letter 
