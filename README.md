@@ -14,10 +14,12 @@
 - :video_camera: Video Interview Sample Lectures: Object Oriented Programming - coming soon!
 - :pencil: Welcome Letter to my future college students - coming soon!
 - - This letter serves as a Welcome Letter to my college students.
-- :pencil: Dear Struggling Student Letter - [Dear Struggling Student Letter](https://github.com/edorejel/teaching_docs/blob/main/dsl2.pdf)
+- :pencil: Dear Struggling Student Letter 
 - - This is a sample letter of what I will email college students that do not attend the first week of classes.
-- :pencil: Sample Programming Research Prompt for Beginner-Level Programmers - [Sample Research Proposal](https://github.com/edorejel/teaching_docs/blob/main/sppp.pdf)
+- - [Dear Struggling Student Letter](https://github.com/edorejel/teaching_docs/blob/main/dsl2.pdf)
+- :pencil: Sample Programming Research Prompt for Beginner-Level Programmers
 -  - This research prompt is something that I would task beginner-level programmers with completing. These programmers are typically enrolled in other beginner-level college courses, so the assignment is appropriate. 
+-  - [Sample Research Proposal](https://github.com/edorejel/teaching_docs/blob/main/sppp.pdf)
 -  :pencil: Sample Programming Research Prompt Solution - coming soon! 
 
 
