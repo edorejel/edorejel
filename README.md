@@ -8,7 +8,10 @@
 - :pencil: Sample Syllabus - coming soon!
 - :pencil: CV - coming soon!
 - :pencil: Projects - coming soon!
-- :video_camera: Video Interview Sample Lectures - coming soon!
+- :video_camera: Video Interview Sample Lectures: Python Functions - coming soon!
+- :video_camera: Video Interview Sample Lectures: Java Methods - coming soon!
+- :video_camera: Video Interview Sample Lectures: Arrays - coming soon!
+- :video_camera: Video Interview Sample Lectures: Object Oriented Programming - coming soon!
 - :pencil: Welcome Letter to my future college students - coming soon!
 - - This letter serves as a Welcome Letter to my college students.
 - :pencil: Dear Struggling Student Letter - https://github.com/edorejel/teaching_docs/blob/main/dsl2.pdf
