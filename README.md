@@ -19,10 +19,10 @@
 - - This letter serves as a Welcome Letter to my college students.
 - :pencil: Dear Struggling Student Letter 
 - - This is a sample letter of what I will email college students that do not attend the first week of classes.
-- - [Dear Struggling Student Letter](https://github.com/edorejel/teaching_docs/blob/main/dsl2.pdf)
+- - - [Dear Struggling Student Letter](https://github.com/edorejel/teaching_docs/blob/main/dsl2.pdf)
 - :pencil: Sample Programming Research Prompt for Beginner-Level Programmers
 -  - This research prompt is something that I would task beginner-level programmers with completing. These programmers are typically enrolled in other beginner-level college courses, so the assignment is appropriate. 
--  - [Sample Research Proposal](https://github.com/edorejel/teaching_docs/blob/main/sppp.pdf)
+-  - - [Sample Research Proposal](https://github.com/edorejel/teaching_docs/blob/main/sppp.pdf)
 -  :pencil: Sample Programming Research Prompt Solution - coming soon! 
 
 
