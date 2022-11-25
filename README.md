@@ -8,10 +8,11 @@
 - :pencil: Sample Syllabus - coming soon!
 - :pencil: CV - coming soon!
 - :pencil: Projects - coming soon!
-- :video_camera: Video Interview Sample Lectures: Python Functions - coming soon!
-- :video_camera: Video Interview Sample Lectures: Java Methods - coming soon!
-- :video_camera: Video Interview Sample Lectures: Arrays - coming soon!
-- :video_camera: Video Interview Sample Lectures: Object Oriented Programming - coming soon!
+- :video_camera: Video Interview Sample Lectures
+- - Python Functions - coming soon!
+- - Java Methods - coming soon!
+- - Arrays - coming soon!
+- - Object Oriented Programming - coming soon!
 - :pencil: Welcome Letter to my future college students - coming soon!
 - - This letter serves as a Welcome Letter to my college students.
 - :pencil: Dear Struggling Student Letter 
