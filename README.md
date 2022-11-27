@@ -23,8 +23,8 @@
 - :pencil: Sample Student Assignments: Programming Research Prompt, and Student Written Programming Prompts
 -  - This research prompt is something that I would task beginner-level programmers with completing. These programmers are typically enrolled in other beginner-level college courses, so the assignment is appropriate. 
 - - - [Sample Research Proposal](https://github.com/edorejel/teaching_docs/blob/main/sppp.pdf)
--  :pencil: Sample Programming Research Prompt Solution - coming soon!
--  :pencil: Student Written Programming Prompts - coming soon! 
+- - - Sample Programming Research Prompt Solution - coming soon!
+- - - Student Written Programming Prompts - coming soon! 
 
 
 - :man_teacher: My Tentative Teaching Schedule for Fall 2023 Semester:
