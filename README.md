@@ -23,7 +23,7 @@
 - - This is a sample letter of what I will email college students that do not attend the first week of classes.
 - - - [Dear Struggling Student Letter](https://github.com/edorejel/teaching_docs/blob/main/dsl2.pdf)
 - :pencil: Sample Student Assignments: Programming Research Prompt, Student Written Programming Prompts, and Reflective Open-Ended Essay Question
--  - This research prompt is something that I would task beginner-level programmers with completing. These programmers are typically enrolled in other beginner-level college courses, so the assignment is appropriate. 
+-  - All of the student samples are assignments that I would task beginner-level programmers with completing. These programmers are typically enrolled in other beginner-level college courses, so the assignments are appropriate. 
 - - - [Student Sample #1 Research Proposal](https://github.com/edorejel/teaching_docs/blob/main/sppp.pdf)
 - - - Sample Programming Research Prompt Solution - coming soon!
 - - - [Student Sample #2 Written Programming Prompts](https://github.com/edorejel/teaching_docs/blob/main/sgpp.pdf)
