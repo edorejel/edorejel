@@ -24,7 +24,7 @@
 -  - This research prompt is something that I would task beginner-level programmers with completing. These programmers are typically enrolled in other beginner-level college courses, so the assignment is appropriate. 
 - - - [Sample Research Proposal](https://github.com/edorejel/teaching_docs/blob/main/sppp.pdf)
 - - - Sample Programming Research Prompt Solution - coming soon!
-- - - Student Written Programming Prompts - coming soon! 
+- - - [Student Written Programming Prompts](https://github.com/edorejel/teaching_docs/blob/main/sgpp.pdf) 
 
 
 - :man_teacher: My Tentative Teaching Schedule for Fall 2023 Semester:
