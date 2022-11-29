@@ -7,7 +7,7 @@
 - :pencil: Equity Statement - coming soon!
 - :pencil: Sample Syllabus - coming soon!
 - - :pencil: Sample Canvas Online Course Modules - coming soon!
-- - - :pencil: Sample Learning Unit - coming soon!
+- - - :pencil: C++ Sample Learning Unit - coming soon!
 - :pencil: CV - coming soon!
 - :pencil: Projects - coming soon!
 - :video_camera: Video Interview Sample Lectures
