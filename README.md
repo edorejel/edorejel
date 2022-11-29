@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Ed Orejel, M.S.C.S. (Master of Science in Computer Science)
 - 👀 I’m interested in yoga, working out, meditation, auto mechanics, mountain biking, blogging, and other things.
+- ➡️ I drive stickshift. 
 - 🌱 I’m currently learning a lot; learning never ends.
 
 - :pencil: Teaching Philosophy - coming soon!
