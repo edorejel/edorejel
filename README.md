@@ -20,7 +20,7 @@
 - 📹 My Computer Science Lecture Videos - coming soon!
 - :pencil: Welcome Letter
 - - This letter serves as a Welcome Letter to my future college students.
-- - - [Welcome Letter to my future college students](https://github.com/edorejel/teaching_docs/blob/main/dwls_2.pdf)
+- - - [Welcome Letter](https://github.com/edorejel/teaching_docs/blob/main/dwls_2.pdf)
 - :pencil: Dear Struggling Student Letter 
 - - This is a sample letter of what I will email college students that do not attend the first week of classes.
 - - - [Dear Struggling Student Letter](https://github.com/edorejel/teaching_docs/blob/main/dsl2.pdf)
