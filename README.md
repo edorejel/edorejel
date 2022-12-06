@@ -18,7 +18,7 @@
 - - - Arrays - coming soon!
 - - - Object Oriented Programming - coming soon!
 - 📹 My Computer Science Lecture Videos - coming soon!
-- :pencil: Welcome Letter
+- :pencil: Sample Welcome Letter
 - - This letter serves as a Welcome Letter to my future college students.
 - - - [Welcome Letter](https://github.com/edorejel/teaching_docs/blob/main/dwls_2.pdf)
 - :pencil: Dear Struggling Student Letter 
