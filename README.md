@@ -19,7 +19,7 @@
 - - - Object Oriented Programming - coming soon!
 - 📹 My Computer Science Lecture Videos - coming soon!
 - :pencil: Sample Welcome Letter
-- - This letter serves as a Welcome Letter to my future college students. It will be catered to the academic institution. Most times, I will send it to students apart from the syllabus. 
+- - This letter serves as a Welcome Letter to my future college students. It will be catered to the academic institution. Most times, I will send it to students in addition to the syllabus. 
 - - - [Sample Welcome Letter](https://github.com/edorejel/teaching_docs/blob/main/dwls_2.pdf)
 - :pencil: Dear Struggling Student Letter 
 - - This is a sample letter of what I will email college students that do not attend the first week of classes.
