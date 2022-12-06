@@ -29,8 +29,8 @@
 - - - [Student Sample #1: Research Proposal](https://github.com/edorejel/teaching_docs/blob/main/sppp.pdf)
 - - - Sample Programming Research Prompt Solution - coming soon!
 - - - [Student Sample #2: Student Written Programming Prompts](https://github.com/edorejel/teaching_docs/blob/main/sgpp.pdf)
-- - - [Student Sample #3: Reflective Open-Ended Essay Question #1](https://github.com/edorejel/teaching_docs/blob/main/ssa_3.pdf) 
-- - - [Student Sample #4: Reflective Open-Ended Essay Question #2](https://github.com/edorejel/teaching_docs/blob/main/raovloa.pdf) 
+- - - [Student Sample #3: Reflective Open-Ended Essay Question #1 - Good vs Best Programs](https://github.com/edorejel/teaching_docs/blob/main/ssa_3.pdf) 
+- - - [Student Sample #4: Reflective Open-Ended Essay Question #2 - Use Only Arrays for Programs](https://github.com/edorejel/teaching_docs/blob/main/raovloa.pdf) 
 
 
 - :man_teacher: My Tentative Teaching Schedule for Fall 2023 Semester:
