@@ -28,7 +28,7 @@
 -  - All of the student samples are assignments that I would task beginner-level programmers with completing. These programmers are typically enrolled in other beginner-level college courses, so the assignments are appropriate. 
 - - - [Student Sample #1: ATM Research Proposal](https://github.com/edorejel/teaching_docs/blob/main/sppp.pdf)
 - - - Sample Programming Research Prompt Solution - coming soon!
-- - - [Student Sample #2: Student Written Programming Prompts](https://github.com/edorejel/teaching_docs/blob/main/sgpp.pdf)
+- - - [Student Sample #2: Collaborative Student Written Programming Prompts](https://github.com/edorejel/teaching_docs/blob/main/sgpp.pdf)
 - - - [Student Sample #3: Reflective Open-Ended Essay Question #1 - Good vs Best Programs](https://github.com/edorejel/teaching_docs/blob/main/ssa_3.pdf) 
 - - - [Student Sample #4: Reflective Open-Ended Essay Question #2 - Use Only Arrays for Programs](https://github.com/edorejel/teaching_docs/blob/main/raovloa.pdf) 
 
