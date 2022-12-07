@@ -40,7 +40,7 @@
 - - :file_folder: [Java 101](https://github.com/edorejel/Java/tree/main/Java101#java-101-beginner-java)
 
 - :man_teacher: My Tentative Teaching Schedule for Spring 2023 Semester:
-- - :file_folder: Coming soon!
+- - :file_folder: C++ CS116
 
 - :link: My Links
 - - :pencil: My Blog: https://edorejel.blogspot.com/
