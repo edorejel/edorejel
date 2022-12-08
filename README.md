@@ -41,6 +41,7 @@
 
 - :man_teacher: My Tentative Teaching Schedule for Spring 2023 Semester:
 - - :file_folder: C++ CS116
+- - :file_folder: C++ CS216
 
 - :link: My Links
 - - :pencil: My Blog: https://edorejel.blogspot.com/
