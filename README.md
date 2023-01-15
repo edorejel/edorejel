@@ -12,7 +12,7 @@
 - :pencil: CV - coming soon!
 - :pencil: Projects
 - - __Software Development:__ [SHaRPS Smart Home and Reliable Property System](https://github.com/edorejel/teaching_docs/blob/main/projects/SWE_SHARPS_SRD.pdf)
-- - __Software Development:__ [Fictional GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/_gtaonline_spy_satellite_dlc_v8.pdf)
+- - __Software Development:__ [Fictional GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/_gtaonline_spysatellite_pdf_slides_v8_slides1_11.pdf)
 - :video_camera: Video Interview Sample Lectures
 - - The video lectures below will serve as interview lectures for academic career related issues. 
 - - - Python Functions - coming soon!
