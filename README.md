@@ -6,7 +6,7 @@
 - :pencil: Teaching Philosophy - coming soon!
 - :pencil: Diversity Statement - coming soon!
 - :pencil: Equity Statement - coming soon!
-- :pencil: [Sample Syllabus](https://github.com/edorejel/teaching_docs/blob/main/cs116_syllabus_sp2023.pdf)
+- :pencil: __Sample Syllabus__: [CS116 Spring 2023 Syllabus](https://github.com/edorejel/teaching_docs/blob/main/cs116_syllabus_sp2023.pdf)
 - - :pencil: Sample Canvas Online Course Modules - coming soon!
 - - - :pencil: C++ Sample Learning Unit - coming soon!
 - :pencil: CV - coming soon!
