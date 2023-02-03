@@ -29,7 +29,7 @@
 - - - __Student Sample #2:__ [Collaborative Student Written Programming Prompts](https://github.com/edorejel/teaching_docs/blob/main/sgpp.pdf)
 - - - __Student Sample #3:__ [Reflective Open-Ended Essay Question #1 - Good vs Best Programs](https://github.com/edorejel/teaching_docs/blob/main/ssa_3.pdf) 
 - - - __Student Sample #4:__ [Reflective Open-Ended Essay Question #2 - Use Only Arrays for Programs](https://github.com/edorejel/teaching_docs/blob/main/raovloa.pdf)
-- - - __Student Sample #5:__ [Reflective Open-Ended Essay Question #3 - "To Loop or Not To Loop" Would you be able to program effectively without using Loops?](https://github.com/edorejel/teaching_docs/blob/main/cs116_chapter5_reflective_writing_assignment_1.pdf) 
+- - - __Student Sample #5:__ [Reflective Open-Ended Essay Question #3 - "To Loop or Not To Loop" Programming without Loops?](https://github.com/edorejel/teaching_docs/blob/main/cs116_chapter5_reflective_writing_assignment_1.pdf) 
 
 
 - :man_teacher: ~My Tentative Teaching Schedule for Fall 2023 Semester:~
