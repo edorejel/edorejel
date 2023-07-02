@@ -6,7 +6,7 @@
 - :pencil: Teaching Philosophy - coming soon!
 - :pencil: Diversity Statement - coming soon!
 - :pencil: Equity Statement - coming soon!
-- :pencil: __Sample Syllabus__: [CS116 Spring 2023 Syllabus](https://github.com/edorejel/teaching_docs/blob/main/cs116_syllabus_sp2023.pdf)
+- :pencil: __Sample Syllabus__: 
 - - :pencil: Sample Canvas Online Course Modules - coming soon!
 - - - :pencil: C++ Sample Learning Unit - coming soon!
 - :pencil: CV - coming soon!
@@ -30,19 +30,6 @@
 - - - __Student Sample #3:__ [Reflective Open-Ended Essay Question #1 - Good vs Best Programs](https://github.com/edorejel/teaching_docs/blob/main/ssa_3.pdf) 
 - - - __Student Sample #4:__ [Reflective Open-Ended Essay Question #2 - Use Only Arrays for Programs](https://github.com/edorejel/teaching_docs/blob/main/raovloa.pdf)
 - - - __Student Sample #5:__ [Reflective Open-Ended Essay Question #3 - "To Loop or Not To Loop" Programming without Loops?](https://github.com/edorejel/teaching_docs/blob/main/cs116_chapter5_reflective_writing_assignment_1.pdf) 
-
-
-- :man_teacher: ~My Tentative Teaching Schedule for Fall 2023 Semester:~
-- - :file_folder: ~[Robotics 101](https://github.com/edorejel/advanced-programming/tree/main/robotics101)~
-- - :file_folder: ~[Python 101](https://github.com/edorejel/Python/tree/main/Python101)~
-- - :file_folder: ~[C++ 103](https://github.com/edorejel/C-plus-plus/tree/main/C%2B%2B103)~
-- - :file_folder: ~[Java 101](https://github.com/edorejel/Java/tree/main/Java101#java-101-beginner-java)~
-
-- :man_teacher: My Tentative Teaching Schedule for Spring 2023 Semester:
-- - :file_folder: CIS 101 Introduction to Computers and Their Uses
-- - :file_folder: CIS 148 HTML
-- - :file_folder: ~C++ CS116~
-- - :file_folder: ~C++ CS216~
 
 - :link: My Links
 - - :pencil: My Blog: https://edorejel.blogspot.com/
