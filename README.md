@@ -10,7 +10,7 @@
 - - :pencil: Sample Canvas Online Course Modules - coming soon!
 - - - :pencil: C++ Sample Learning Unit - coming soon!
 - :pencil: CV - coming soon!
-- :pencil: Projects
+- :pencil: My Personal Projects
 - - - __Software Development:__ [SHaRPS Smart Home and Reliable Property System](https://github.com/edorejel/teaching_docs/blob/main/projects/SWE_SHARPS_SRD.pdf)
 - - - __Software Development (in progress):__ [Fictional GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_v8.pdf)
 - :video_camera: Video Interview Sample Lectures
