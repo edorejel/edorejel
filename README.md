@@ -30,7 +30,7 @@
 - - - __Student Work Sample #3:__ [Reflective Open-Ended Essay Question #1 - Good vs Best Programs](https://github.com/edorejel/teaching_docs/blob/main/ssa_3.pdf) 
 - - - __Student Work Sample #4:__ [Reflective Open-Ended Essay Question #2 - Use Only Arrays for Programs](https://github.com/edorejel/teaching_docs/blob/main/raovloa.pdf)
 - - - __Student Work Sample #5:__ [Reflective Open-Ended Essay Question #3 - "To Loop or Not To Loop" Programming without Loops?](https://github.com/edorejel/teaching_docs/blob/main/cs116_chapter5_reflective_writing_assignment_1.pdf) 
-- - - __Student Work Sample #6:__ Sample Software Engineering Project: [Language Translation Using Technology](https://github.com/edorejel/teaching_docs/blob/main/sample_SWE_project_TLT.pdf) 
+- - - __Student Work Sample #6:__ [Sample Software Engineering Project: Language Translation Using Technology](https://github.com/edorejel/teaching_docs/blob/main/sample_SWE_project_TLT.pdf) 
 - :link: My Links
 - - :pencil: My Blog: https://edorejel.blogspot.com/
 - - :dart: My LinkedIn: https://www.linkedin.com/in/edorejel/
