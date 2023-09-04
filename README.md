@@ -12,11 +12,12 @@
 - :pencil: CV - coming soon!
 - :pencil: My Personal Projects
 - - - __Software Development:__ [SHaRPS Smart Home and Reliable Property System](https://github.com/edorejel/teaching_docs/blob/main/projects/SWE_SHARPS_SRD.pdf)
-- - - - __Software Development (in progress):__ [GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_v8.pdf)
-- - - - - __Software Development (in progress):__ [Reaper or Predator Drone Targeting System - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_predator_reaper_drone_targeting.pdf)
-- - - - - - __Software Development (in progress):__ [Smart Vehicle - Electromagnetic Pulse (EMP) Vehicle Concept for the GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_v8_emp_vehicle.pdf)
-          - __Software Development (in progress):__ [GTA Online Spy Satellite DLC: Vehicle Hacking Aerial Drone](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_DLC_hacker_services_car_hacking_drone.pdf)
-- - - - - - - __Software Development (in progress):__ [GTA Online Spy Satellite DLC - Component View of All Services](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_components_v8.pdf)
+- - - __Software Development (in progress):__ [GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_v8.pdf)
+- - - __Software Development (in progress):__ [Reaper or Predator Drone Targeting System - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_predator_reaper_drone_targeting.pdf)
+- - - __Software Development (in progress):__ [Smart Vehicle - Electromagnetic Pulse (EMP) Vehicle Concept - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_v8_emp_vehicle.pdf)
+- - - __Software Development (in progress):__ [Vehicle Hacking Aerial Drone - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_DLC_hacker_services_car_hacking_drone.pdf)
+- - - __Software Development (in progress):__ [Component View of All Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_components_v8.pdf)
+- - - __Software Development (in progress):__ [Enhanced Missiles Concept - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_v8_enhanced_missiles.pdf)
 
 - :video_camera: Video Interview Sample Lectures
 - - The video lectures below will serve as interview lectures for academic career related issues. 
