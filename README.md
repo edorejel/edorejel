@@ -21,7 +21,7 @@
 - - - __Software Development (in progress):__ [Smart Bullets Concept - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_military_services_smart_bullets.pdf)
 
 - :pencil: Lecture Notes
-- [HTML - Sample Introductory Lesson to HTML Web Dev](https://github.com/edorejel/teaching_docs/blob/main/lecture-notes/html-web-dev/lesson_zero_html.pdf)
+- - - __Front-end HTML, CSS, JavaScript Web Dev__ - [HTML - Sample Introductory Lesson to HTML Web Dev](https://github.com/edorejel/teaching_docs/blob/main/lecture-notes/html-web-dev/lesson_zero_html.pdf)
 
 - :video_camera: Video Interview Sample Lectures
 - - The video lectures below will serve as interview lectures for academic career related issues. 
