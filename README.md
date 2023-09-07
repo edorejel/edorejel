@@ -20,12 +20,18 @@
 - - - __Software Development (in progress):__ [Enhanced Missiles Concept - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_v8_enhanced_missiles.pdf)
 - - - __Software Development (in progress):__ [Smart Bullets Concept - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_military_services_smart_bullets.pdf)
 
+Lecture Notes
+- CIS 148 HTML - Sample Introductory Lesson to HTML Web Dev
+
+
 - :video_camera: Video Interview Sample Lectures
 - - The video lectures below will serve as interview lectures for academic career related issues. 
 - - - Python Functions - coming soon!
 - - - Java Methods - coming soon!
 - - - Arrays - coming soon!
 - - - Object Oriented Programming - coming soon!
+   
+
 - 📹 My Computer Science Lecture Videos - coming soon!
 - :pencil: __Sample Welcome Letter__: [Sample Welcome Letter](https://github.com/edorejel/teaching_docs/blob/main/dwls_2.pdf) - This letter serves as a Welcome Letter to my future college students. It will be catered to the academic institution. Most times, I will send it to students in addition to the syllabus. 
 - :pencil: __Dear Struggling Student Letter__: [Dear Struggling Student Letter](https://github.com/edorejel/teaching_docs/blob/main/dsl2.pdf) - This is a sample letter of what I will email college students that do not attend the first week of classes.
