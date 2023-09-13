@@ -35,7 +35,8 @@
 ### Artificial Intelligence
 - - - __Software Development (in progress):__ [Mind-Vision Rudimentary AI Software Concept](https://github.com/edorejel/software-design-lab/tree/main/ai_mind_vision)
 - - - __Test cases for Mind-Vision AI System (in progress):__ [Test Cases for Mind-Vision](https://github.com/edorejel/software-design-lab/tree/main/ai_mind_vision/test_cases)
-    - __Developer Note #1:__ The test cases have to be linked to Mind-Vision explicitly, so that Mind-Vision can begin making decisions. 
+    - __Developer Note #1:__ The test cases have to be linked to Mind-Vision explicitly, so that Mind-Vision can begin making decisions. I may know what to do with the system and the test cases together, but the system may not know what to do with them.
+    - The purpose of AI is defeated, if it does not know how to process information, to make decisions, without the input of a human's perception on a particular matter. 
 
 ### Lectures
 
