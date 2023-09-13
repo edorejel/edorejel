@@ -10,13 +10,15 @@
 - - :pencil: Sample Canvas Online Course Modules - coming soon!
 - - - :pencil: C++ Sample Learning Unit - coming soon!
 - :pencil: CV - coming soon!
-- :pencil: My Personal Projects
+ 
 
-## Home Software Systems
+## My Personal Projects :pencil:
+
+### Home Software Systems
   
 - - - __Software Development:__ [SHaRPS Smart Home and Reliable Property System](https://github.com/edorejel/teaching_docs/blob/main/projects/SWE_SHARPS_SRD.pdf)
 
-## Video Games, Game Engines, Graphics Engines
+### Video Games, Game Engines, Graphics Engines
 
 - - - __Software Development (in progress):__ [GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_v8.pdf)
 - - - __Software Development (in progress):__ [Reaper or Predator Drone Targeting System - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_predator_reaper_drone_targeting.pdf)
@@ -26,10 +28,10 @@
 - - - __Software Development (in progress):__ [Enhanced Missiles Concept - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_v8_enhanced_missiles.pdf)
 - - - __Software Development (in progress):__ [Smart Bullets Concept - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_military_services_smart_bullets.pdf)
 
-## Artificial Intelligence
+### Artificial Intelligence
 - - - __Software Development (in progress):__ [Mind-Vision Rudimentary AI Software Concept](https://github.com/edorejel/software-design-lab/tree/main/ai_mind_vision)
 
-## Lectures
+### Lectures
 
 - :pencil: Lecture Notes
 - - - __Front-end HTML, CSS, JavaScript Web Dev__ - [HTML - Sample Introductory Lesson to HTML Web Dev](https://github.com/edorejel/teaching_docs/blob/main/lecture-notes/html-web-dev/lesson_zero_html.pdf)
