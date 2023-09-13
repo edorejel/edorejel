@@ -1,7 +1,11 @@
-- 👋 Hi, I’m Ed Orejel, M.S.C.S. (Master of Science in Computer Science)
+## Hi 😃
+
+-  I’m Ed Orejel, M.S.C.S. (Master of Science in Computer Science)
 - 👀 I’m interested in yoga, working out, meditation, auto mechanics, mountain biking, blogging, and other things.
 - ➡️ I drive stickshift. 
 - 🌱 I’m currently learning a lot; learning never ends.
+
+## Academic Material
 
 - :pencil: Teaching Philosophy - coming soon!
 - :pencil: Diversity Statement - coming soon!
@@ -11,7 +15,6 @@
 - - - :pencil: C++ Sample Learning Unit - coming soon!
 - :pencil: CV - coming soon!
  
-
 ## My Personal Projects :pencil:
 
 ### Home Software Systems
