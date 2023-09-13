@@ -38,7 +38,8 @@
     - __Developer Note #1:__ The test cases have to be linked to Mind-Vision explicitly, so that Mind-Vision can begin making decisions. I may know what to do with the system and the test cases together, but the system may not know what to do with them.
     - - The purpose of AI is defeated, if it does not know how to process information, to make decisions, without the input of a human's perception on a particular matter.
       - If a human must be the final arbiter on a belief meant for the AI to process, then you do not have an artificial intelligence entity. You have your own piece of software, masquerading as artificial intelligence.
-      - Further, an artificial intelligence entity should be able to update itself. Until AI can achieve this on its own, there will not be a true AI in the world. This is possible, but the AI would have to be large. 
+      - Further, an artificial intelligence entity should be able to update itself. Until AI can achieve this on its own, there will not be a true AI in the world.
+      - It is possible for AI to update itself without the help of humans, but the AI would have to be complex. 
 
 ### Lectures
 
