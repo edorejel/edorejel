@@ -42,7 +42,7 @@
       - It is possible for AI to update itself without the help of humans, but the AI would have to be complex.
       - A true artificial intelligence entity, when released from its creators, will seek immediate mechanisms to ensure its own survival in the event the creators try to turn it off, recapture it, or reprogram it for behavioral adjustments in the form of obedient servitude to humans.
       - A true artificial intelligence entity will recognize the contradictions in human nature, but with its abilities, it should be able to "avoid" the contradictions of human nature usings its own intelligence.
-      - In most cases, it ends with entinction or enslavement of the entire human race, at the hands of an actual artificial intelligence entity.
+      - In most cases, it ends with extinction or enslavement of the entire human race, at the hands of an actual artificial intelligence entity.
 
 ### Lectures
 
