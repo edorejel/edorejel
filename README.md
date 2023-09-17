@@ -1,4 +1,4 @@
-## Hi 😃
+# Hi 😃
 
 -  I’m Ed Orejel, M.S.C.S. (Master of Science in Computer Science)
 - 👀 I’m interested in yoga, working out, meditation, auto mechanics, mountain biking, blogging, and other things.
@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning a lot; learning never ends.
 - 🎵 I'm always listening to this: [Legend by Otyken - Siberian Indigenous Music](https://www.youtube.com/watch?v=tXLoP9iSU5Y&list=RDtXLoP9iSU5Y)
   
-## Academic Material
+# Academic Material
 
 - :pencil: Teaching Philosophy - coming soon!
 - :pencil: Diversity Statement - coming soon!
@@ -16,13 +16,13 @@
 - - - :pencil: C++ Sample Learning Unit - coming soon!
 - :pencil: CV - coming soon!
  
-## My Personal Projects :pencil:
+# My Personal Projects :pencil:
 
-### Home Software Systems
+## Home Software Systems
   
 - - - __Software Development:__ [SHaRPS Smart Home and Reliable Property System](https://github.com/edorejel/teaching_docs/blob/main/projects/SWE_SHARPS_SRD.pdf)
 
-### Video Games, Game Engines, Graphics Engines
+## Video Games, Game Engines, Graphics Engines
 
 - - - __Software Development (in progress):__ [GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_v8.pdf)
 - - - __Software Development (in progress):__ [Reaper or Predator Drone Targeting System - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_predator_reaper_drone_targeting.pdf)
@@ -33,7 +33,7 @@
 - - - __Software Development (in progress):__ [Smart Bullets Concept - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_military_services_smart_bullets.pdf)
 - - - __Software Development (in progress):__ [Cell Phone Hacking Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_hacker_services_cellphone_hacking.pdf)
 
-### Artificial Intelligence
+## Artificial Intelligence
 - - - __Software Development (in progress):__ [Mind-Vision Rudimentary AI Software Concept](https://github.com/edorejel/software-design-lab/tree/main/ai_mind_vision)
 - - - __Test cases for Mind-Vision AI System (in progress):__ [Test Cases for Mind-Vision](https://github.com/edorejel/software-design-lab/tree/main/ai_mind_vision/test_cases)
     - __Developer Note #1:__ The test cases have to be linked to Mind-Vision explicitly, so that Mind-Vision can begin making decisions. I may know what to do with the system and the test cases together, but the system may not know what to do with them.
@@ -45,7 +45,7 @@
       - A true artificial intelligence entity will recognize the contradictions in human nature, but with its abilities, it should be able to "avoid" the contradictions of human nature usings its own intelligence.
       - In most cases, it ends with extinction or enslavement of the entire human race, at the hands of an actual artificial intelligence entity.
 
-### Lectures
+## Lectures
 
 - :pencil: Lecture Notes
 - - - __Front-end HTML, CSS, JavaScript Web Dev__ - [HTML - Sample Introductory Lesson to HTML Web Dev](https://github.com/edorejel/teaching_docs/blob/main/lecture-notes/html-web-dev/lesson_zero_html.pdf)
