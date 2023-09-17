@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning a lot; learning never ends.
 - 🎵 I'm always listening to this: [Legend by Otyken - Siberian Indigenous Music](https://www.youtube.com/watch?v=tXLoP9iSU5Y&list=RDtXLoP9iSU5Y)
   
-# Academic Material
+# Academic Material 🤓
 
 - :pencil: Teaching Philosophy - coming soon!
 - :pencil: Diversity Statement - coming soon!
