@@ -46,6 +46,8 @@
       - A true artificial intelligence entity will recognize the contradictions in human nature, but with its abilities, it should be able to "avoid" the contradictions of human nature usings its own intelligence.
       - In most cases, it ends with extinction or enslavement of the entire human race, at the hands of an actual artificial intelligence entity.
 
+## COVID-19
+
 ## Lectures
 
 - :pencil: Lecture Notes
