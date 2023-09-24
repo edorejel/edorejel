@@ -60,8 +60,9 @@ There are many ways of analyzing COVID-19's impact. COVID-19's weaponization, po
 - - - Java Methods - coming soon!
       
 ### C++ Lecture Notes
-- :video_camera: Video Interview Sample Lectures
-- - The video lectures below will serve as interview lectures for academic career related issues. 
+- - - C++ Functions - coming soon!
+
+### Pyton Lecture Notes
 - - - Python Functions - coming soon!
 
 ### General Computer Science Lecture Notes
