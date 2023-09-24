@@ -54,6 +54,7 @@ There are many ways of analyzing COVID-19's impact. COVID-19's weaponization, po
 
 - :pencil: Lecture Notes
 - - - __Front-end HTML, CSS, JavaScript Web Dev__ - [HTML - Sample Introductory Lesson to HTML Web Dev](https://github.com/edorejel/teaching_docs/blob/main/lecture-notes/html-web-dev/lesson_zero_html.pdf)
+    - __Sample HTML Coding Laboratory 0:__ - [HTML Coding Laboratory ](https://github.com/edorejel/teaching_docs/blob/main/lecture-notes/html-web-dev/labs/Laboratory%200%20-%20Your%20First%20HTML%20and%20CSS%20Documents.pdf)
 
 - :video_camera: Video Interview Sample Lectures
 - - The video lectures below will serve as interview lectures for academic career related issues. 
