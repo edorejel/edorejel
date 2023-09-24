@@ -50,21 +50,26 @@
 There are many ways of analyzing COVID-19's impact. COVID-19's weaponization, politicization, and overall behavioral tendencies are what I focused on using my Software Engineering and Computer Science skills.
 - - - __COVID-19 Information__ [My COVID-19 Github Account](https://github.com/covid-cure/COVID-19/tree/main)
 
-## Lectures
+## Computer Science Lectures and Video Lectures
 
-- :pencil: Lecture Notes
+### HTML Lecture Notes :pencil:
 - - - __Front-end HTML, CSS, JavaScript Web Dev__ - [HTML - Sample Introductory Lesson to HTML Web Dev](https://github.com/edorejel/teaching_docs/blob/main/lecture-notes/html-web-dev/lesson_zero_html.pdf)
     - __Sample HTML Coding Laboratory 0:__ - [HTML Coding Laboratory ](https://github.com/edorejel/teaching_docs/blob/main/lecture-notes/html-web-dev/labs/Laboratory%200%20-%20Your%20First%20HTML%20and%20CSS%20Documents.pdf)
 
+### Java Lecture Notes
+- - - Java Methods - coming soon!
+      
+### C++ Lecture Notes
 - :video_camera: Video Interview Sample Lectures
 - - The video lectures below will serve as interview lectures for academic career related issues. 
 - - - Python Functions - coming soon!
-- - - Java Methods - coming soon!
+
+### General Computer Science Lecture Notes
 - - - Arrays - coming soon!
 - - - Object Oriented Programming - coming soon!
    
 
-- 📹 My Computer Science Lecture Videos - coming soon!
+## College Adjunct Material
 - :pencil: __Sample Welcome Letter__: [Sample Welcome Letter](https://github.com/edorejel/teaching_docs/blob/main/dwls_2.pdf) - This letter serves as a Welcome Letter to my future college students. It will be catered to the academic institution. Most times, I will send it to students in addition to the syllabus. 
 - :pencil: __Dear Struggling Student Letter__: [Dear Struggling Student Letter](https://github.com/edorejel/teaching_docs/blob/main/dsl2.pdf) - This is a sample letter of what I will email college students that do not attend the first week of classes.
 - :pencil: __Sample Student Assignments__: Programming Research Prompt, Student Written Programming Prompts, and Reflective Open-Ended Essay Questions
@@ -76,7 +81,8 @@ There are many ways of analyzing COVID-19's impact. COVID-19's weaponization, po
 - - - __Student Work Sample #4:__ [Reflective Open-Ended Essay Question #2 - Use Only Arrays for Programs](https://github.com/edorejel/teaching_docs/blob/main/raovloa.pdf)
 - - - __Student Work Sample #5:__ [Reflective Open-Ended Essay Question #3 - "To Loop or Not To Loop" Programming without Loops?](https://github.com/edorejel/teaching_docs/blob/main/cs116_chapter5_reflective_writing_assignment_1.pdf) 
 - - - __Student Work Sample #6:__ [Sample Software Engineering Project: Language Translation Using Technology](https://github.com/edorejel/teaching_docs/blob/main/sample_SWE_project_TLT.pdf) 
-- :link: My Links
+
+## My Links
 - - :pencil: My Blog: https://edorejel.blogspot.com/
 - - :dart: My LinkedIn: https://www.linkedin.com/in/edorejel/
 - :point_right: Oh yeah, forgot to tell you, I'll be the best teacher/college lecturer that you could ever have. All my energy and effort are so that you become a successful college graduate. This is why Mr. O is Mr. O.
