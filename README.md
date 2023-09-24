@@ -24,7 +24,7 @@
 
 ## Video Games, Game Engines, Graphics Engines
 
-- - - __Software Development (in progress):__ [GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_v8.pdf)
+- - - __Software Development (in progress):__ __Original Draft of Concept__ [GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_v8.pdf)
 - - - __Software Development (in progress):__ [Reaper or Predator Drone Targeting System - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_predator_reaper_drone_targeting.pdf)
 - - - __Software Development (in progress):__ [Electromagnetic Pulse (EMP) Vehicle Concept - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_v8_emp_vehicle.pdf)
 - - - __Software Development (in progress):__ [Vehicle Hacking Aerial Drone - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_DLC_hacker_services_car_hacking_drone.pdf)
