@@ -66,7 +66,7 @@ There are many ways of analyzing COVID-19's impact. COVID-19's weaponization, po
 - - - Python Functions - coming soon!
 - - - __Student Work Sample #3:__ [Reflective Open-Ended Essay Question #1 - Good vs Best Programs](https://github.com/edorejel/teaching_docs/blob/main/ssa_3.pdf)
     -  __PDF Version of Sample #3:__
-    -  
+      
 ### General Computer Science Lecture Notes
 - - - Arrays - coming soon!
 - - - Object Oriented Programming - coming soon!
