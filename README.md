@@ -24,6 +24,7 @@
 
 ## Video Games, Game Engines, Graphics Engines
 
+### GTA Online Spy Satellite DLC Concept
 - - - __Software Development (in progress):__ __Original Draft of Concept__ [GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_v8.pdf)
 - - - __Software Development (in progress):__ [Component View of All Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_components_v8.pdf)
 - - - __Software Development (in progress):__ [Reaper or Predator Drone Targeting System - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_predator_reaper_drone_targeting.pdf)
@@ -34,6 +35,12 @@
 - - - __Software Development (in progress):__ [Smart Bullets Concept - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_military_services_smart_bullets.pdf)
 - - - __Software Development (in progress):__ [Cellular Phone Hacking Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_hacker_services_cellphone_hacking.pdf)
     - __Software Development (in progress):__ [Social Engineering - Cellular Phone Hacking Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_hacker_services_social_engineering.pdf)
+
+### My Game Engine
+- - - Coming soon!
+   
+### My Graphics Engine
+- - - Coming soon!
 
 ## Artificial Intelligence
 - - - __Software Development (in progress):__ [Mind-Vision Rudimentary AI Software Concept](https://github.com/edorejel/software-design-lab/tree/main/ai_mind_vision)
