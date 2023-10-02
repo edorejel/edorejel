@@ -36,6 +36,7 @@
 - - - __Software Development (in progress):__ [Cellular Phone Hacking Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_hacker_services_cellphone_hacking.pdf)
     - __Software Development (in progress):__ [Social Engineering - Cellular Phone Hacking Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_hacker_services_social_engineering.pdf)
     - __Software Development (in progress):__ [Attack Drone Swarm - Shadow Hacker Group Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_hacker_services_attack_drone_swarm.pdf)
+    - __Software Development (in progress):__ [Targeted Military Directed Energy (Laser) Strike - Military Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtao_spy_satellite_dlc_targeted_military_laser_strike.pdf)
 
 ### My Game Engine
 - - - Coming soon!
