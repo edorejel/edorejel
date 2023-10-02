@@ -35,6 +35,7 @@
 - - - __Software Development (in progress):__ [Smart Bullets Concept - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_military_services_smart_bullets.pdf)
 - - - __Software Development (in progress):__ [Cellular Phone Hacking Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_hacker_services_cellphone_hacking.pdf)
     - __Software Development (in progress):__ [Social Engineering - Cellular Phone Hacking Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_hacker_services_social_engineering.pdf)
+    - __Software Development (in progress):__ [Attack Drone Swarm - Shadow Hacker Group Services - GTA Online Spy Satellite DLC]()
 
 ### My Game Engine
 - - - Coming soon!
