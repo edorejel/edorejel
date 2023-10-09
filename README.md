@@ -25,20 +25,26 @@
 ## Video Games, Game Engines, Graphics Engines
 
 ### GTA Online Spy Satellite DLC Concept
-- - - __Software Development (in progress):__ __Original Draft of Concept__ [GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_v8.pdf)
-- - - __Software Development (in progress):__ [Component View of All Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_components_v8.pdf)
-- - - __Software Development (in progress):__ [Reaper or Predator Drone Targeting System - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_predator_reaper_drone_targeting.pdf)
-- - - __Software Development (in progress):__ [Electromagnetic Pulse (EMP) Vehicle Concept - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_v8_emp_vehicle.pdf)
-- - - __Software Development (in progress):__ [Vehicle Hacking Aerial Drone - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_DLC_hacker_services_car_hacking_drone.pdf)
 
-- - - __Software Development (in progress):__ [Enhanced Missiles Concept - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_v8_enhanced_missiles.pdf)
-- - - __Software Development (in progress):__ [Smart Bullets Concept - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_military_services_smart_bullets.pdf)
-- - - __Software Development (in progress):__ [Cellular Phone Hacking Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_hacker_services_cellphone_hacking.pdf)
-- - - __Software Development (in progress):__ [Social Engineering - Cellular Phone Hacking Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_hacker_services_social_engineering.pdf)
-- - - __Software Development (in progress):__ [Attack Drone Swarm - Shadow Hacker Group Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_hacker_services_attack_drone_swarm.pdf)
+#### The Original Software Design Concept
+- - - __Software Development (in progress):__ __Original Draft of Concept__ [GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_v8.pdf)
+      
+#### Military Group Services
 - - - __Software Development (in progress):__ [Targeted Military Directed Energy (Laser) Strike - Military Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtao_spy_satellite_dlc_targeted_military_laser_strike.pdf)
 - - - __Software Development (in progress):__ [Direct Energy (Laser) Aircraft - Military Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtao_spy_satellite_dlc_direct_energy_laser_aircraft.pdf)
 - - - __Software Development (in progress):__ [Direct Energy (Laser) Vehicles - Military Services - GTA Online Spy Satelltie DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtao_spy_satellite_dlc_direct_energy_laser_vehicle.pdf)
+- - - __Software Development (in progress):__ [Component View of All Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_components_v8.pdf)
+- - - __Software Development (in progress):__ [Reaper or Predator Drone Targeting System - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_predator_reaper_drone_targeting.pdf)
+- - - __Software Development (in progress):__ [Electromagnetic Pulse (EMP) Vehicle Concept - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_v8_emp_vehicle.pdf)
+- - - __Software Development (in progress):__ [Enhanced Missiles Concept - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_v8_enhanced_missiles.pdf)
+- - - __Software Development (in progress):__ [Smart Bullets Concept - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_military_services_smart_bullets.pdf)
+       
+#### The Shadow Hacker Group Services
+- - - __Software Development (in progress):__ [Vehicle Hacking Aerial Drone - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_DLC_hacker_services_car_hacking_drone.pdf)
+- - - __Software Development (in progress):__ [Cellular Phone Hacking Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_hacker_services_cellphone_hacking.pdf)
+- - - __Software Development (in progress):__ [Social Engineering - Cellular Phone Hacking Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_hacker_services_social_engineering.pdf)
+- - - __Software Development (in progress):__ [Attack Drone Swarm - Shadow Hacker Group Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_hacker_services_attack_drone_swarm.pdf)
+
       
 ### My Game Engine
 - - - Coming soon!
