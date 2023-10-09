@@ -22,14 +22,14 @@
   
 - - - __Software Development:__ [SHaRPS Smart Home and Reliable Property System](https://github.com/edorejel/teaching_docs/blob/main/projects/SWE_SHARPS_SRD.pdf)
 
-## Video Games, Game Engines, Graphics Engines
+## Video Games, Game Engines, Graphics Engines, Physics Engines, Cryptography Engines
 
 ### GTA Online Spy Satellite DLC Concept
 
 #### The Original Software Design Concept
 - - - __Software Development (in progress):__ __Original Draft of Concept__ [GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_v8.pdf)
       
-#### Military Group Services
+#### The Military Group Services
 - - - __Software Development (in progress):__ [Targeted Military Directed Energy (Laser) Strike - Military Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtao_spy_satellite_dlc_targeted_military_laser_strike.pdf)
 - - - __Software Development (in progress):__ [Direct Energy (Laser) Aircraft - Military Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtao_spy_satellite_dlc_direct_energy_laser_aircraft.pdf)
 - - - __Software Development (in progress):__ [Direct Energy (Laser) Vehicles - Military Services - GTA Online Spy Satelltie DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtao_spy_satellite_dlc_direct_energy_laser_vehicle.pdf)
