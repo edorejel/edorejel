@@ -38,6 +38,7 @@
 - - - __Software Development (in progress):__ [Electromagnetic Pulse (EMP) Vehicle Concept - Military Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_v8_emp_vehicle.pdf)
 - - - __Software Development (in progress):__ [Enhanced Missiles Concept - Military Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_v8_enhanced_missiles.pdf)
 - - - __Software Development (in progress):__ [Smart Bullets Concept - Military Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_military_services_smart_bullets.pdf)
+- - - __Software Development (Coming soon!):__ [Jet Car - Smart Vehicles - Military Weapons - Military Services - GTA Online Spy Satellite DLC]()
        
 #### The Shadow Hacker Group Services
 - - - __Software Development (in progress):__ [Vehicle Hacking Aerial Drone - Hacker Services - Shadow Hacker Group Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_DLC_hacker_services_car_hacking_drone.pdf)
