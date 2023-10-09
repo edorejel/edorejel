@@ -40,10 +40,11 @@
 - - - __Software Development (in progress):__ [Smart Bullets Concept - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_military_services_smart_bullets.pdf)
        
 #### The Shadow Hacker Group Services
-- - - __Software Development (in progress):__ [Vehicle Hacking Aerial Drone - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_DLC_hacker_services_car_hacking_drone.pdf)
-- - - __Software Development (in progress):__ [Cellular Phone Hacking Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_hacker_services_cellphone_hacking.pdf)
-- - - __Software Development (in progress):__ [Social Engineering - Cellular Phone Hacking Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_hacker_services_social_engineering.pdf)
-- - - __Software Development (in progress):__ [Attack Drone Swarm - Shadow Hacker Group Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_hacker_services_attack_drone_swarm.pdf)
+- - - __Software Development (in progress):__ [Vehicle Hacking Aerial Drone - Hacker Services - Shadow Hacker Group Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_DLC_hacker_services_car_hacking_drone.pdf)
+- - - __Software Development (in progress):__ [Cellular Phone Hacking Services - Hacking Services - Shadow Hacker Group Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_hacker_services_cellphone_hacking.pdf)
+- - - __Software Development (in progress):__ [Social Engineering - Cellular Phone Hacking Services - Hacking Services - Shadow Hacker Group Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_hacker_services_social_engineering.pdf)
+- - - __Software Development (in progress):__ [Attack Drone Swarm - Hacking Services - Shadow Hacker Group Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_hacker_services_attack_drone_swarm.pdf)
+- - - __Software Development (in progress):__ [Cell Phone Explode Services - Hacking Services - Shadow Hacker Group Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gta_spy_satellite_dlc_cell_phone_explode_hacker_group.pdf)
 
       
 ### My Game Engine
