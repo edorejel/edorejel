@@ -38,7 +38,9 @@
 - - - __Software Development (in progress):__ [Electromagnetic Pulse (EMP) Vehicle Concept - Military Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_v8_emp_vehicle.pdf)
 - - - __Software Development (in progress):__ [Enhanced Missiles Concept - Military Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_v8_enhanced_missiles.pdf)
 - - - __Software Development (in progress):__ [Smart Bullets Concept - Military Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_military_services_smart_bullets.pdf)
-- - - __Software Development (Coming soon!):__ [Jet Car - Smart Vehicles - Military Weapons - Military Services - GTA Online Spy Satellite DLC]()
+- - - __Software Development (in progress):__ [Jet Car - Smart Vehicles - Military Weapons - Military Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtao_spy_satellite_dlc_jet_car_smart_vehicle.pdf)
+- - - __Software Development (in progress):__ [Jet Big Rig - Smart Vehicles - Military Weapons - Military Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtao_spy_satellite_dlc_jet_big_rig_smart_vehicle.pdf)
+- - - __Software Development (in progress):__ [Helicopter Car (or Truck) - Smart Vehicles - Military Weapons - Military Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtao_spy_satellite_dlc_helicopter_car_smart_vehicle.pdf)
        
 #### The Shadow Hacker Group Services
 - - - __Software Development (in progress):__ [Vehicle Hacking Aerial Drone - Hacker Services - Shadow Hacker Group Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_DLC_hacker_services_car_hacking_drone.pdf)
