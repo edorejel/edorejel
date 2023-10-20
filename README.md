@@ -31,6 +31,7 @@
 - - - __Software Development (in progress):__ [Component View of All Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_components_v8.pdf)
             
 #### The Military Group Services
+- - - __Software Development (in progress):__ [RC Airplane and RC Helicopter - Smart Vehicle - Military Weapons - Military Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtao_spy_satellite_dlc_rc_airplanes_rc_helicopter.pdf)
 - - - __Software Development (in progress):__ [Targeted Military Directed Energy (Laser) Strike - Military Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtao_spy_satellite_dlc_targeted_military_laser_strike.pdf)
 - - - __Software Development (in progress):__ [Direct Energy (Laser) Aircraft - Military Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtao_spy_satellite_dlc_direct_energy_laser_aircraft.pdf)
 - - - __Software Development (in progress):__ [Direct Energy (Laser) Vehicles - Military Services - GTA Online Spy Satelltie DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtao_spy_satellite_dlc_direct_energy_laser_vehicle.pdf)
