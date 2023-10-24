@@ -80,8 +80,8 @@ There are many ways of analyzing COVID-19's impact. COVID-19's weaponization, po
 - - - __COVID-19 Information__ [My COVID-19 Github Account](https://github.com/covid-cure/COVID-19/tree/main)
 
 ## CLRS Algorithms Solutions
-- - - 4th Ed. Solutions Coming soon!! [4th Edition Solutions](https://github.com/edorejel/CLRS-Algorithms-Solutions)
-- - - 3rd Ed. Solutions coming soon!! [3rd Edition Solutions](https://github.com/edorejel/CLRS-Algorithms-Solutions)
+- - - 4th Ed. Solutions Coming soon!! [4th Edition Solutions](https://github.com/edorejel/CLRS-Algorithms-Solutions/tree/main/4th-edition-solutions#4th-edition-solutions)
+- - - 3rd Ed. Solutions coming soon!! [3rd Edition Solutions](https://github.com/edorejel/CLRS-Algorithms-Solutions/tree/main/3rd-edition-solutions#3rd-edition-solutions)
 
 ## Computer Science Lectures and Video Lectures
 
