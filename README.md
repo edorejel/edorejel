@@ -8,7 +8,7 @@
   
 # Academic Material 🤓
 
-- :pencil: Teaching Philosophy - ::given upon request with intent to hire!::
+- :pencil: Teaching Philosophy - *given upon request with intent to hire!*
 - :pencil: Diversity Statement - *given upon request with intent to hire!*
 - :pencil: Equity Statement - *given upon request with intent to hire!*
 - :pencil: Training & Experience Statement - *given upon request with intent to hire!*
