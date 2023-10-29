@@ -75,7 +75,7 @@
       - A true artificial intelligence entity will recognize the contradictions in human nature, but with its abilities, it should be able to "avoid" the contradictions of human nature usings its own intelligence.
       - In most cases, it ends with extinction or enslavement of the entire human race, at the hands of an actual artificial intelligence entity.
 
-## My COVID-19
+## My COVID-19 Analysis
 There are many ways of analyzing COVID-19's impact. COVID-19's weaponization, politicization, and overall behavioral tendencies are what I focused on using my Software Engineering and Computer Science skills.
 - - - __COVID-19 Information__ [My COVID-19 Github Account](https://github.com/covid-cure/COVID-19/tree/main)
 
