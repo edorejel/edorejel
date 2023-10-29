@@ -15,7 +15,7 @@
 # Favorite Quote
 - _No Automata Theory, no Software Engineery._
 
-  # Academic Material 🤓
+# Academic Material 🤓
 - :pencil: Teaching Philosophy - _given upon request with intent to hire!_
 - :pencil: Diversity Statement - _given upon request with intent to hire!_
 - :pencil: Equity Statement - _given upon request with intent to hire!_
