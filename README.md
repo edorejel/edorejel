@@ -14,7 +14,7 @@
 - :pencil: Training & Experience Statement - *given upon request with intent to hire!*
 - :pencil: __Sample Syllabus__: - *given upon request with intent to hire!*
 - - :pencil: Sample Canvas Online Course Modules - *given upon request with intent to hire!*
-- - - :pencil: C++ Sample Learning Unit - *8given upon request with intent to hire!*
+- - - :pencil: C++ Sample Learning Unit - **given upon request with intent to hire!**
 - :pencil: CV - coming soon! - *given upon request with intent to hire!*
  
 # My Personal Projects :pencil:
