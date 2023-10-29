@@ -8,6 +8,8 @@
 
 # Currently Thinking About
 - 📚📝🙂 A PhD in Computer Science (other degrees, too).
+- - - I might try to prove Descartes is the "father" of Artificial Intelligence and all of COmputer Science (still not sure though).
+      
 
   # Academic Material 🤓
 
