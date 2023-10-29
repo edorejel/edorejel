@@ -80,7 +80,7 @@
       - In most cases, it ends with extinction or enslavement of the entire human race, at the hands of an actual artificial intelligence entity.
 
 ## My COVID-19 Analysis
-There are many ways of analyzing COVID-19's impact. COVID-19's weaponization, politicization, and overall behavioral tendencies are what I focused on using my Software Engineering and Computer Science skills.
+There are many ways of analyzing COVID-19's impact. COVID-19's weaponization, politicization, and overall behavioral tendencies are what I focused on using a Software Engineering perspective.
 - - - __COVID-19 Information__ [My COVID-19 Github Account](https://github.com/covid-cure/COVID-19/tree/main)
 
 ## [Head First Software Design Patterns Solutions](https://github.com/edorejel/Head-First-Software-Design-Patterns#head-first-software-design-patterns)
