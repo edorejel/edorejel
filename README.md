@@ -11,6 +11,8 @@
 - - - I might try to prove Descartes is the "father" of Artificial Intelligence and all of Computer Science (still not sure though).
 - - - Other topics under consideration.
       
+# Favorite Quote
+- _No Automata Theory, no Software Engineery._
 
   # Academic Material 🤓
 
