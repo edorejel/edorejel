@@ -15,7 +15,7 @@
 - :pencil: Diversity Statement - _given upon request with intent to hire!_
 - :pencil: Equity Statement - _given upon request with intent to hire!_
 - :pencil: Training & Experience Statement - _given upon request with intent to hire!_
-- :pencil: _Sample Syllabus_: - _given upon request with intent to hire!_
+- :pencil: Sample Syllabus: - _given upon request with intent to hire!_
 - - :pencil: Sample Canvas Online Course Modules - _given upon request with intent to hire!_
 - - - :pencil: C++ Sample Learning Unit - _given upon request with intent to hire!_
 - :pencil: CV - _given upon request with intent to hire!_
