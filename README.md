@@ -83,10 +83,10 @@ There are many ways of analyzing COVID-19's impact. COVID-19's weaponization, po
 - - - Solutions to Head First Design Patterns - coming soon!!
 
 ## [Head First Object-Oriented Analysis & Design](https://github.com/edorejel/Head-First-Object-Oriented-Design/tree/main#head-first-object-oriented-analysis--design)
-- - - Solutions to Head First Design Patterns - coming soon!!
+- - - Solutions to Head First Object-Oriented Analysis & Design - coming soon!!
 
 ## [Head First Software Development](https://github.com/edorejel/Head-First-Object-Oriented-Design/tree/main#head-first-object-oriented-analysis--design)
-- - - Solutions to Head First Design Patterns - coming soon!!
+- - - Solutions to Head First Software Development - coming soon!!
 
 ## [CLRS Algorithms Solutions](https://github.com/edorejel/CLRS-Algorithms-Solutions/tree/main#clrs-algorithms-solutions)
 - - - 4th Ed. Solutions coming soon!! [4th Edition Solutions](https://github.com/edorejel/CLRS-Algorithms-Solutions/tree/main/4th-edition-solutions#4th-edition-solutions)
