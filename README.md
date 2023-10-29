@@ -1,9 +1,10 @@
 # Hi 😃
-
 -  I’m Ed Orejel, M.S.C.S. (Master of Science in Computer Science)
 - 👀 I’m interested in not being interested.
 - ➡️ I drive stickshift. 
 - 🌱 I’m currently learning a lot; learning never ends.
+
+# Music
 - 🎵 I'm always listening to this: [Legend by Otyken - Siberian Indigenous Music](https://www.youtube.com/watch?v=tXLoP9iSU5Y&list=RDtXLoP9iSU5Y)
 
 # Currently Thinking About
@@ -15,7 +16,6 @@
 - _No Automata Theory, no Software Engineery._
 
   # Academic Material 🤓
-
 - :pencil: Teaching Philosophy - _given upon request with intent to hire!_
 - :pencil: Diversity Statement - _given upon request with intent to hire!_
 - :pencil: Equity Statement - _given upon request with intent to hire!_
