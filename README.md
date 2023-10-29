@@ -1,21 +1,21 @@
 # Hi 😃
 
 -  I’m Ed Orejel, M.S.C.S. (Master of Science in Computer Science)
-- 👀 I’m interested in yoga, working out, meditation, auto mechanics, mountain biking, blogging, and other things.
+- 👀 I’m interested in not being interested.
 - ➡️ I drive stickshift. 
 - 🌱 I’m currently learning a lot; learning never ends.
 - 🎵 I'm always listening to this: [Legend by Otyken - Siberian Indigenous Music](https://www.youtube.com/watch?v=tXLoP9iSU5Y&list=RDtXLoP9iSU5Y)
   
 # Academic Material 🤓
 
-- :pencil: Teaching Philosophy - given upon request with intent to hire!
-- :pencil: Diversity Statement - given upon request with intent to hire!
-- :pencil: Equity Statement - given upon request with intent to hire!
-- :pencil: Training & Experience Statement - given upon request with intent to hire!
-- :pencil: __Sample Syllabus__: - given upon request with intent to hire!
-- - :pencil: Sample Canvas Online Course Modules - given upon request with intent to hire!
-- - - :pencil: C++ Sample Learning Unit - given upon request with intent to hire!
-- :pencil: CV - coming soon! - given upon request with intent to hire!
+- :pencil: Teaching Philosophy - *given upon request with intent to hire!*
+- :pencil: Diversity Statement - *given upon request with intent to hire!*
+- :pencil: Equity Statement - *given upon request with intent to hire!*
+- :pencil: Training & Experience Statement - *given upon request with intent to hire!*
+- :pencil: __Sample Syllabus__: - *given upon request with intent to hire!*
+- - :pencil: Sample Canvas Online Course Modules - *given upon request with intent to hire!*
+- - - :pencil: C++ Sample Learning Unit - *8given upon request with intent to hire!*
+- :pencil: CV - coming soon! - *given upon request with intent to hire!*
  
 # My Personal Projects :pencil:
 
