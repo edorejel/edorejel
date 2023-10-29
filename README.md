@@ -8,13 +8,14 @@
   
 # Academic Material 🤓
 
-- :pencil: Teaching Philosophy - coming soon!
-- :pencil: Diversity Statement - coming soon!
-- :pencil: Equity Statement - coming soon!
+- :pencil: Teaching Philosophy - given upon request with intent to hire!
+- :pencil: Diversity Statement - given upon request with intent to hire!
+- :pencil: Equity Statement - given upon request with intent to hire!
+- :pencil: Training & Experience Statement - given upon request with intent to hire!
 - :pencil: __Sample Syllabus__: 
-- - :pencil: Sample Canvas Online Course Modules - coming soon!
-- - - :pencil: C++ Sample Learning Unit - coming soon!
-- :pencil: CV - coming soon!
+- - :pencil: Sample Canvas Online Course Modules - given upon request with intent to hire!
+- - - :pencil: C++ Sample Learning Unit - given upon request!
+- :pencil: CV - coming soon! - given upon request with intent to hire!
  
 # My Personal Projects :pencil:
 
