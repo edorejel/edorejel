@@ -11,14 +11,14 @@
 
   # Academic Material 🤓
 
-- :pencil: Teaching Philosophy - **given upon request with intent to hire!**
-- :pencil: Diversity Statement - **given upon request with intent to hire!**
-- :pencil: Equity Statement - **given upon request with intent to hire!**
-- :pencil: Training & Experience Statement - **given upon request with intent to hire!**
-- :pencil: __Sample Syllabus__: - **given upon request with intent to hire!**
-- - :pencil: Sample Canvas Online Course Modules - **given upon request with intent to hire!**
-- - - :pencil: C++ Sample Learning Unit - **given upon request with intent to hire!**
-- :pencil: CV - **given upon request with intent to hire!**
+- :pencil: Teaching Philosophy - _given upon request with intent to hire!_
+- :pencil: Diversity Statement - _given upon request with intent to hire!_
+- :pencil: Equity Statement - _given upon request with intent to hire!_
+- :pencil: Training & Experience Statement - _given upon request with intent to hire!_
+- :pencil: __Sample Syllabus__: - _given upon request with intent to hire!_
+- - :pencil: Sample Canvas Online Course Modules - _given upon request with intent to hire!_
+- - - :pencil: C++ Sample Learning Unit - _given upon request with intent to hire!_
+- :pencil: CV - _given upon request with intent to hire!_
  
 # My Personal Projects :pencil:
 
