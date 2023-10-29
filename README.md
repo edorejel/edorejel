@@ -13,8 +13,7 @@
 - - - Other topics under consideration.
       
 # Favorite Quote
-- _No Automata Theory, no Software Engineery._
-- - source: me.
+- _No Automata Theory, no Software Engineery._ - Source: me.
 
 # Academic Material 🤓
 - :pencil: Teaching Philosophy - _given upon request with intent to hire!_
