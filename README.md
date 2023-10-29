@@ -24,6 +24,7 @@
 - - :pencil: Sample Canvas Online Course Modules - _given upon request with intent to hire!_
 - - - :pencil: C++ Sample Learning Unit - _given upon request with intent to hire!_
 - :pencil: CV - _given upon request with intent to hire!_
+- :nerd_face: Copies of Official Transcripts - _given upon request with intent to hire!_
  
 # My Personal Projects :pencil:
 
