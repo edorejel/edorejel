@@ -17,7 +17,7 @@
 
 # Academic Material 🤓
 - :pencil: Teaching Philosophy - _given upon request with intent to hire!_
-- :pencil: Diversity & Equity Statement - _Page 1 of the statement has been uploaded. The entire statement is given upon request with intent to hire!_
+- :pencil: [Sample Inclusivity & Diversity Statement](https://github.com/edorejel/teaching_docs/blob/main/equity_diversity_statement/page_1_diversity_equity_statement.pdf) - _Page 1 of the statement has been uploaded. The entire statement is given upon request with intent to hire!_
 - :pencil: Training & Experience Statement - _given upon request with intent to hire!_
 - :pencil: Sample Syllabus: - _given upon request with intent to hire!_
 - - :pencil: Sample Canvas Online Course Modules - _given upon request with intent to hire!_
