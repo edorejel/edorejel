@@ -58,7 +58,7 @@
 - - - __Software Development (in progress):__ [Social Engineering - Cellular Phone Hacking Services - Hacking Services - Shadow Hacker Group Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_hacker_services_social_engineering.pdf)
 - - - __Software Development (in progress):__ [Attack Drone Swarm - Hacking Services - Shadow Hacker Group Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_hacker_services_attack_drone_swarm.pdf)
 - - - __Software Development (in progress):__ [Cell Phone Explode Services - Hacking Services - Shadow Hacker Group Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gta_spy_satellite_dlc_cell_phone_explode_hacker_group.pdf)
-- - - __Software Development (in progress):__ [RC Transformer-Type Vehicles - Attacking Services - Shadow Hacker Group Services - GTA Online Spy Satellite DLC]()
+- - - __Software Development (in progress):__ [RC Transformer-Type Vehicles - Attacking Services - Shadow Hacker Group Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtao_spy_satellite_dlc_rc_transformers_11102023_1957.pdf)
 
       
 ### My Game Engine
