@@ -60,6 +60,8 @@
 - - - __Software Development (in progress):__ [Cell Phone Explode Services - Hacking Services - Shadow Hacker Group Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gta_spy_satellite_dlc_cell_phone_explode_hacker_group.pdf)
 - - - __Software Development (in progress):__ [RC Transformer-Type Vehicles - Attacking Services - Shadow Hacker Group Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtao_spy_satellite_dlc_rc_transformers_11102023_1957.pdf)
 
+### Other GTA Online DLC Concepts
+- - - __Software Development__ [GTAOnline K9 DLC]() 
       
 ### My Game Engine
 - - - Coming soon!
