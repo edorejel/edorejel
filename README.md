@@ -75,8 +75,8 @@
 - - - __Software Development:__ [GTA Online Naval Sea Warfare DLC]()
     -  - __Relevant Concept Research:__ [U.S. Navy Seals](https://en.wikipedia.org/wiki/United_States_Navy_SEALs)
        - - - - - - - __Movie Trailer:__ [The Rock](https://www.youtube.com/watch?v=a3qcNyjj9ZQ&ab_channel=RottenTomatoesClassicTrailers)
-                   - __Video Game Research:__ [The GTA V Tourist: El Gordo Lighthouse](https://www.youtube.com/watch?v=LBTETPqmdvI&ab_channel=KatzenwagenTV) *The Mount Gordo Lighthouse is perfect for this DLC.
-                   - - __Video Game Research:__ [GTA V Mount Gordo Lighthouse Location](https://www.youtube.com/watch?v=IKnZKRWAgMU&ab_channel=JonahByrde)
+                   - __Video Game Research:__ [The GTA V Tourist: El Gordo Lighthouse](https://www.youtube.com/watch?v=LBTETPqmdvI&ab_channel=KatzenwagenTV) *The Mount Gordo Lighthouse is perfect for this DLC.*
+                   - __Video Game Research:__ [GTA V Mount Gordo Lighthouse Location](https://www.youtube.com/watch?v=IKnZKRWAgMU&ab_channel=JonahByrde)
 - - - __Software Development:__ [GTA Online Survive, Evade, Assault, Resist (SEAR) DLC]()
     - - __Relevant Concept Research:__ [Survival, Evasion, Resistance and Escape School](https://en.wikipedia.org/wiki/Survival,_Evasion,_Resistance_and_Escape)
 - - - __Software Development:__ [GTA Online Los Carteles DLC]()
