@@ -71,6 +71,7 @@
       - __Relevant Concept Research:__ Movie - [Mars Attacks](https://en.wikipedia.org/wiki/Mars_Attacks!)
       - __Relevant Concept Research:__ Movie - [The Delta Force starring Chuck Norris](https://en.wikipedia.org/wiki/The_Delta_Force)
       - - - - - - - __Movie Trailer:__ [The Delta Force](https://www.youtube.com/watch?v=eEqj2cBYUAo&ab_channel=MGM)
+                  - __Movie Trailer:__ [The Delta Force - "It's About Time" Scene](https://www.youtube.com/watch?v=TwnfJ8d9NqY&ab_channel=Movieclips) *Los Santos International Airport is perfect for this scene.*
 - - - __Software Development:__ [GTA Online Naval Sea Warfare DLC]()
     -  - __Relevant Concept Research:__ [U.S. Navy Seals](https://en.wikipedia.org/wiki/United_States_Navy_SEALs)
 - - - __Software Development:__ [GTA Online Survive, Evade, Assault, Resist (SEAR) DLC]()
