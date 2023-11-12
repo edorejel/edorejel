@@ -61,17 +61,17 @@
 - - - __Software Development (in progress):__ [RC Transformer-Type Vehicles - Attacking Services - Shadow Hacker Group Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtao_spy_satellite_dlc_rc_transformers_11102023_1957.pdf)
 
 ### Other GTA Online DLC Concepts
-- - - __Software Development__ [GTA Online K9 DLC]()
-- - - __Software Development__ [GTA Online Police DLC]() 
-- - - __Software Development__ [GTA Online Full Blown Military Mayhem DLC]()
-- - - __Software Development__ [GTA Online Flying Angels DLC (Air Force themed DLC]()
-- - - __Software Development__ [GTA Online Alien Invasion San Andreas DLC]()
-    - - __Relevant Concept Research__ [Invasion USA starring Chuck Norris](https://en.wikipedia.org/wiki/Invasion_U.S.A._(1985_film))
-      - __Relevant Concept Research__ [Mars Attacks](https://en.wikipedia.org/wiki/Mars_Attacks!)
-- - - __Software Development__ [GTA Online Naval Sea Warfare DLC]()
-- - - __Software Development__ [GTA Online Survive, Evade, Assault, Resist (SEAR) DLC]()
+- - - __Software Development:__ [GTA Online K9 DLC]()
+- - - __Software Development:__ [GTA Online Police DLC]() 
+- - - __Software Development:__ [GTA Online Full Blown Military Mayhem DLC]()
+- - - __Software Development:__ [GTA Online Flying Angels DLC (Air Force themed DLC]()
+- - - __Software Development:__ [GTA Online Alien Invasion San Andreas DLC]()
+    - - __Relevant Concept Research:__ [Invasion USA starring Chuck Norris](https://en.wikipedia.org/wiki/Invasion_U.S.A._(1985_film))
+      - __Relevant Concept Research:__ [Mars Attacks](https://en.wikipedia.org/wiki/Mars_Attacks!)
+- - - __Software Development:__ [GTA Online Naval Sea Warfare DLC]()
+- - - __Software Development:__ [GTA Online Survive, Evade, Assault, Resist (SEAR) DLC]()
     - - __Relevant Concept Research:__ [Survival, Evasion, Resistance and Escape School](https://en.wikipedia.org/wiki/Survival,_Evasion,_Resistance_and_Escape)
-- - - __Software Development__ [GTA Online Los Carteles DLC]()
+- - - __Software Development:__ [GTA Online Los Carteles DLC]()
       
 ### My Game Engine
 - - - Coming soon!
