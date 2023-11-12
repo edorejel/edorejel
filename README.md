@@ -64,7 +64,7 @@
 - - - __Software Development:__ [GTA Online K9 DLC]()
 - - - __Software Development:__ [GTA Online Police DLC]() 
 - - - __Software Development:__ [GTA Online Full Blown Military Mayhem DLC]()
-- - - __Software Development:__ [GTA Online Flying Angels DLC (Air Force themed DLC]()
+- - - __Software Development:__ [GTA Online Flying Angels DLC (Air Force themed DLC)]()
 - - - __Software Development:__ [GTA Online Alien Invasion San Andreas DLC]()
     - - __Relevant Concept Research:__ Movie - [Invasion USA starring Chuck Norris](https://en.wikipedia.org/wiki/Invasion_U.S.A._(1985_film))
       - __Relevant Concept Research:__ Movie - [Mars Attacks](https://en.wikipedia.org/wiki/Mars_Attacks!)
