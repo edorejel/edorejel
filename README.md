@@ -89,7 +89,7 @@
                    - __Video Game Research:__ [GTA V Mount Gordo Lighthouse Location](https://www.youtube.com/watch?v=IKnZKRWAgMU&ab_channel=JonahByrde)
 - - - __Software Development:__ [GTA Online Survive, Evade, Assault, Resist (SEAR) DLC]()
     - - __Relevant Concept Research:__ [Survival, Evasion, Resistance and Escape School](https://en.wikipedia.org/wiki/Survival,_Evasion,_Resistance_and_Escape)
-      - __Relevant Concept Research:__ Movie - [The Hunted](https://en.wikipedia.org/wiki/The_Hunted_(2003_film)
+      - __Relevant Concept Research:__ Movie - [The Hunted](https://en.wikipedia.org/wiki/The_Hunted_(2003_film))
       - - - - - - - __Movie Trailer:__ [The Hunted](https://www.youtube.com/watch?v=WB-w3130-C4&ab_channel=RottenTomatoesClassicTrailers)
 - - - __Software Development:__ [GTA Online Los Carteles DLC]()
 - - - __Software Development:__ [GTA Online Prison Life DLC]()
