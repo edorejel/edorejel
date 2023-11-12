@@ -68,6 +68,8 @@
 - - - __Software Development:__ [GTA Online Alien Invasion San Andreas DLC]()
     - - __Relevant Concept Research:__ Movie - [Invasion USA starring Chuck Norris](https://en.wikipedia.org/wiki/Invasion_U.S.A._(1985_film))
       - __Relevant Concept Research:__ Movie - [Mars Attacks](https://en.wikipedia.org/wiki/Mars_Attacks!)
+      - __Relevant Concept Research:__ Movie - [The Delta Force starring Chuck Norris](https://en.wikipedia.org/wiki/The_Delta_Force)
+      - - - - - - - __Movie Trailer:__ [The Delta Force](https://www.youtube.com/watch?v=eEqj2cBYUAo&ab_channel=MGM)
 - - - __Software Development:__ [GTA Online Naval Sea Warfare DLC]()
     -  - __Relevant Concept Research:__ [U.S. Navy Seals](https://en.wikipedia.org/wiki/United_States_Navy_SEALs)
 - - - __Software Development:__ [GTA Online Survive, Evade, Assault, Resist (SEAR) DLC]()
