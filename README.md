@@ -66,7 +66,7 @@
 - - - __Software Development__ [GTA Online Full Blown Military Mayhem DLC]()
 - - - __Software Development__ [GTA Online Flying Angels DLC (Air Force themed DLC]()
 - - - __Software Development__ [GTA Online Alien Invasion San Andreas DLC]()
-    - - __Relevant Concept Research__ [Invasion USA starring Chuck Norris](https://en.wikipedia.org/wiki/Invasion_U.S.A._(1985_film)
+    - - __Relevant Concept Research__ [Invasion USA starring Chuck Norris](https://en.wikipedia.org/wiki/Invasion_U.S.A._(1985_film))
       - __Relevant Concept Research__ [Mars Attacks](https://en.wikipedia.org/wiki/Mars_Attacks!)
 - - - __Software Development__ [GTA Online Naval Sea Warfare DLC]()
 - - - __Software Development__ [GTA Online Survive, Evade, Assault, Resist (SEAR) DLC]()
