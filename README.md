@@ -71,10 +71,12 @@
       - __Relevant Concept Research:__ Movie - [Mars Attacks](https://en.wikipedia.org/wiki/Mars_Attacks!)
       - __Relevant Concept Research:__ Movie - [The Delta Force starring Chuck Norris](https://en.wikipedia.org/wiki/The_Delta_Force)
       - - - - - - - __Movie Trailer:__ [The Delta Force](https://www.youtube.com/watch?v=eEqj2cBYUAo&ab_channel=MGM)
-                  - __Movie Trailer:__ [The Delta Force - "It's About Time" Scene](https://www.youtube.com/watch?v=TwnfJ8d9NqY&ab_channel=Movieclips) *Los Santos International Airport is perfect for this scene.*
+                  - __Movie Trailer:__ [The Delta Force - "It's About Time" Scene](https://www.youtube.com/watch?v=TwnfJ8d9NqY&ab_channel=Movieclips) *Los Santos International Airport is perfect for this DLC.*
 - - - __Software Development:__ [GTA Online Naval Sea Warfare DLC]()
     -  - __Relevant Concept Research:__ [U.S. Navy Seals](https://en.wikipedia.org/wiki/United_States_Navy_SEALs)
        - - - - - - - __Movie Trailer:__ [The Rock](https://www.youtube.com/watch?v=a3qcNyjj9ZQ&ab_channel=RottenTomatoesClassicTrailers)
+                   - __Video Game Research:__ [The GTA V Tourist: El Gordo Lighthouse](https://www.youtube.com/watch?v=LBTETPqmdvI&ab_channel=KatzenwagenTV) *The Mount Gordo Lighthouse is perfect for this DLC.
+                   - - __Video Game Research:__ [GTA V Mount Gordo Lighthouse Location](https://www.youtube.com/watch?v=IKnZKRWAgMU&ab_channel=JonahByrde)
 - - - __Software Development:__ [GTA Online Survive, Evade, Assault, Resist (SEAR) DLC]()
     - - __Relevant Concept Research:__ [Survival, Evasion, Resistance and Escape School](https://en.wikipedia.org/wiki/Survival,_Evasion,_Resistance_and_Escape)
 - - - __Software Development:__ [GTA Online Los Carteles DLC]()
