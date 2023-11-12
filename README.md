@@ -61,7 +61,15 @@
 - - - __Software Development (in progress):__ [RC Transformer-Type Vehicles - Attacking Services - Shadow Hacker Group Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtao_spy_satellite_dlc_rc_transformers_11102023_1957.pdf)
 
 ### Other GTA Online DLC Concepts
-- - - __Software Development__ [GTAOnline K9 DLC]() 
+- - - __Software Development__ [GTA Online K9 DLC]()
+- - - __Software Development__ [GTA Online Police DLC]() 
+- - - __Software Development__ [GTA Online Full Blown Military Mayhem DLC]()
+- - - __Software Development__ [GTA Online Flying Angels DLC]()
+- - - __Software Development__ [GTA Online Alien Invasion San Andreas DLC]()
+- - - __Software Development__ [GTA Online Naval Sea Warfare DLC]()
+- - - __Software Development__ [GTA Online Survive, Evade, Assault, Resist (SEAR) DLC]()
+    - - __Relevant Concept Research:__ [Survival, Evasion, Resistance and Escape School](https://en.wikipedia.org/wiki/Survival,_Evasion,_Resistance_and_Escape)
+- - - __Software Development__ [GTA Online Los Carteles DLC]()
       
 ### My Game Engine
 - - - Coming soon!
