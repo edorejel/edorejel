@@ -63,7 +63,13 @@
 ### Other GTA Online DLC Concepts
 - - - __Software Development:__ [GTA Online K9 DLC]()
 - - - __Software Development:__ [GTA Online Police DLC]() 
-- - - __Software Development:__ [GTA Online Full Blown Military Mayhem DLC]()
+- - - __Software Development:__ [GTA Online Full Blown Military Mayhem DLC]() *A central concept in this DLC would be establishing a Military Platoon. The Military Platoon would function similar to the SecuroServ Service. Another central concept would be including militias from other parts of the world. The players in GTA Online don't always have to be fighting Russians. The players in GTA Online could fight Chinese, or African warlords, for example. This DLC should not be confused with Military Services Group in the GTA Online Spy Satellite DLC.*
+    - - __Relevant Concept Research:__ Movie - [Missing in Action](https://en.wikipedia.org/wiki/Missing_in_Action_(film))
+      - - - - - - - __Movie Trailer:__ [Missing in Action](https://www.youtube.com/watch?v=eeeBh7SD7dQ&ab_channel=RottenTomatoesClassicTrailers)
+    - - __Relevant Concept Research:__ Movie - [Black Hawk Down](https://en.wikipedia.org/wiki/Black_Hawk_Down_(film))
+        - - - - - - __Movie Trailer:__ [Black Hawk Down](https://www.youtube.com/watch?v=2GfBkC3qs78&ab_channel=RottenTomatoesClassicTrailers)
+    - - __Relevant Concept Research:__ Movie - [13 Hours The Secret Soldiers...](https://en.wikipedia.org/wiki/13_Hours:_The_Secret_Soldiers_of_Benghazi)
+      - - - - - - - __Movie Trailer:__ [13 Hours The Secret Soldiers of Benghazi](https://www.youtube.com/watch?v=5MBjAN7jqsQ&ab_channel=ZeroMedia) 
 - - - __Software Development:__ [GTA Online Flying Angels DLC (Air Force themed DLC)]()
 - - - __Software Development:__ [GTA Online Alien Invasion San Andreas DLC]()
     - - __Relevant Concept Research:__ Movie - [Invasion USA starring Chuck Norris](https://en.wikipedia.org/wiki/Invasion_U.S.A._(1985_film))
