@@ -63,7 +63,7 @@
 ### Other GTA Online DLC Concepts
 - - - __Software Development:__ [GTA Online K9 DLC]()
 - - - __Software Development:__ [GTA Online Police DLC]() 
-- - - __Software Development:__ [GTA Online Full Blown Military Mayhem DLC]() *A central concept in this DLC would be establishing a Military Platoon. The Military Platoon would function similar to the SecuroServ Service. Another central concept would be including militias from other parts of the world. The players in GTA Online don't always have to be fighting Russians. The players in GTA Online could fight Chinese, or African warlords, for example. This DLC should not be confused with [Military Services Group](https://github.com/edorejel/edorejel/blob/main/README.md#the-military-group-services) in the [GTA Online Spy Satellite DLC](https://github.com/edorejel#gta-online-spy-satellite-dlc-concept). The concept of an elite military unit is not found in this DLC. Elite military units as a video game concept are found the [GTA Online Survive, Evade, Assault, Resist (SEAR) DLC]().*
+- - - __Software Development:__ [GTA Online Full Blown Military Mayhem DLC]() *This DLC concept will bring a "Call of Duty flair" to GTA Online. A central concept in this DLC would be establishing a Military Platoon. The Military Platoon would function similar to the SecuroServ Service. Another central concept would be including militias from other parts of the world. The players in GTA Online don't always have to be fighting Russians. The players in GTA Online could fight Chinese, or African warlords, for example. This DLC should not be confused with [Military Services Group](https://github.com/edorejel/edorejel/blob/main/README.md#the-military-group-services) in the [GTA Online Spy Satellite DLC](https://github.com/edorejel#gta-online-spy-satellite-dlc-concept). The concept of an elite military unit is not found in this DLC. Elite military units as a video game concept are found the [GTA Online Survive, Evade, Assault, Resist (SEAR) DLC]().*
     - - __Relevant Concept Research:__ Movie - [Missing in Action](https://en.wikipedia.org/wiki/Missing_in_Action_(film))
       - - - - - - - __Movie Trailer:__ [Missing in Action](https://www.youtube.com/watch?v=eeeBh7SD7dQ&ab_channel=RottenTomatoesClassicTrailers)
     - - __Relevant Concept Research:__ Movie - [Black Hawk Down](https://en.wikipedia.org/wiki/Black_Hawk_Down_(film))
@@ -87,10 +87,14 @@
        - - - - - - - __Movie Trailer:__ [The Rock](https://www.youtube.com/watch?v=a3qcNyjj9ZQ&ab_channel=RottenTomatoesClassicTrailers)
                    - __Video Game Research:__ [The GTA V Tourist: El Gordo Lighthouse](https://www.youtube.com/watch?v=LBTETPqmdvI&ab_channel=KatzenwagenTV) *The Mount Gordo Lighthouse is perfect for this DLC.*
                    - __Video Game Research:__ [GTA V Mount Gordo Lighthouse Location](https://www.youtube.com/watch?v=IKnZKRWAgMU&ab_channel=JonahByrde)
-- - - __Software Development:__ [GTA Online Survive, Evade, Assault, Resist (SEAR) DLC]()
+- - - __Software Development:__ [GTA Online Survive, Evade, Assault, Resist (SEAR) DLC]() *This DLC would bring a Tom Clancy's "Splinter Cell flair" to GTA Online. I think for GTA VI (SIX), RockstarGames might bring this type of action to the players. Elite military or paramilitary units would be central theme of this DLC. These types of units are not exactly found in GTA Online. The video game mechanics and gameplay might have to be created to simulate elite military and survival training for the players to experience.* 
+    - - __Relevant Concept Research:__ Video Game - [Tom Clancy's Splinter Cell](https://en.wikipedia.org/wiki/Tom_Clancy%27s_Splinter_Cell)
+      - - - - - - - __Game Trailer:__ [Tom Clancy's Splinter Cell Blacklist](https://www.youtube.com/watch?v=wYGoFH6bWXg&ab_channel=Ubisoft) 
     - - __Relevant Concept Research:__ [Survival, Evasion, Resistance and Escape School](https://en.wikipedia.org/wiki/Survival,_Evasion,_Resistance_and_Escape)
-      - __Relevant Concept Research:__ Movie - [The Hunted](https://en.wikipedia.org/wiki/The_Hunted_(2003_film))
+    - - __Relevant Concept Research:__ Movie - [The Hunted](https://en.wikipedia.org/wiki/The_Hunted_(2003_film))
       - - - - - - - __Movie Trailer:__ [The Hunted](https://www.youtube.com/watch?v=WB-w3130-C4&ab_channel=RottenTomatoesClassicTrailers)
+    - - __Relevant Concept Research:__ Movie - [Mission Impossible VII](https://en.wikipedia.org/wiki/Mission:_Impossible_%E2%80%93_Dead_Reckoning_Part_One)
+      - - - - - - - __Movie Trailer:__ [Mission: Impossible – Dead Reckoning Part One | Official Trailer (2023 Movie) - Tom Cruise](https://www.youtube.com/watch?v=avz06PDqDbM&ab_channel=ParamountPictures)  
 - - - __Software Development:__ [GTA Online Los Carteles DLC]()
 - - - __Software Development:__ [GTA Online Prison Life DLC]()
       
