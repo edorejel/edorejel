@@ -92,8 +92,8 @@
       - - - - - - - __Movie Trailer:__ [Mission: Impossible – Dead Reckoning Part One | Official Trailer (2023 Movie) - Tom Cruise](https://www.youtube.com/watch?v=avz06PDqDbM&ab_channel=ParamountPictures)
     - - __Relevant Concept Research:__ TV Show - [Airwolf](https://en.wikipedia.org/wiki/Airwolf)
       - - - - - - - __TV Show Trailer:__ [Airwolf](https://www.youtube.com/watch?v=ULfmowbNlK0&ab_channel=roxettehd2)
-    - - __Relevant Concept Research:__ Movie - [Zero Dark Thirty | Area 51 Scene (Chris Pratt, Jessica Chastain)](https://en.wikipedia.org/wiki/Zero_Dark_Thirty)
-      - - - - - - - __Movie Trailer:__ [Zero Dark Thirty](https://www.youtube.com/watch?v=v9foJ_w9W1E&ab_channel=CrimeCity)
+    - - __Relevant Concept Research:__ Movie - [Zero Dark Thirty](https://en.wikipedia.org/wiki/Zero_Dark_Thirty)
+      - - - - - - - __Movie Trailer:__ [Zero Dark Thirty | Area 51 Scene (Chris Pratt, Jessica Chastain)](https://www.youtube.com/watch?v=v9foJ_w9W1E&ab_channel=CrimeCity)
 - - - __Software Development:__ [GTA Online Los Carteles DLC]()
 - - - __Software Development:__ [GTA Online Prison Life DLC]()
     - - - - - - - __Blog Entry:__ [GTA Online Prison Life DLC](https://edorejel.blogspot.com/2023/11/software-development-concept-gta-online_14.html) *An explanation of the GTA Online Prison Life DLC concept in blog form.*
