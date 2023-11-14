@@ -93,7 +93,7 @@
     - - __Relevant Concept Research:__ Movie - [Zero Dark Thirty | Area 51 Scene (Chris Pratt, Jessica Chastain)](https://en.wikipedia.org/wiki/Zero_Dark_Thirty)
       - - - - - - - __Movie Trailer:__ [Zero Dark Thirty](https://www.youtube.com/watch?v=v9foJ_w9W1E&ab_channel=CrimeCity)
 - - - __Software Development:__ [GTA Online Los Carteles DLC]()
-- - - __Software Development:__ [GTA Online Prison Life DLC]()
+- - - __Software Development:__ [GTA Online Prison Life DLC]() *For the Prison Life DLC, the players would run their contraband operation from prison. The players would be able to escape from the prison to roam around GTA Online as an "Escaped Prisoner." Instead of a regular gang, the players would join a mafia, a family, or a prison gang. The players would be able to join a cohort with other players that have also escaped from the prison, or are all about that criminal lifestyle in GTA Online or they want to experience the prison lifestyle from a simulated video game perspective. I do not have much on this DLC yet, but I think something that aligns with the prison lifestyle can be done in GTA Online.*
       
 ### My Game Engine
 - - - Coming soon!
