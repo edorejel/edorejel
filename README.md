@@ -13,9 +13,9 @@
 - - - Other topics under consideration.
       
 # Favorite Quotes
-- _No Automata Theory, no Software Engineery._ - Source: me.
-- _Without Computer Science, you will never be a software engineer.*
-- As a matter-of-fact, I do make the software that your IT department uses. What do you think Computer Science and Software Engineers do*?
+- _No Automata Theory, no Software Engineery. Go cry!_ - Source: me.
+- _Without Computer Science, you will never be a software engineer. Stay mad!_ - Source: me.
+- _As a matter-of-fact, I do make the software that your IT department uses. What do you think Computer Science and Software Engineers do?_ - Source: me.
 
 # Academic Material 🤓
 - :pencil: [My Sample Teaching Philosophy Statement](https://github.com/edorejel/teaching_docs/blob/main/teaching_philosophy_statement/teaching_statement_page_1.pdf) - _Page 1 of the Teaching Philosophy has been uploaded. The entire statement is given upon request with intent to hire!_
