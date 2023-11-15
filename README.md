@@ -80,7 +80,7 @@
        - - - - - - - __Movie Trailer:__ [The Rock](https://www.youtube.com/watch?v=a3qcNyjj9ZQ&ab_channel=RottenTomatoesClassicTrailers)
                    - __Video Game Research:__ [The GTA V Tourist: El Gordo Lighthouse](https://www.youtube.com/watch?v=LBTETPqmdvI&ab_channel=KatzenwagenTV) *The Mount Gordo Lighthouse is perfect for this DLC.*
                    - __Video Game Research:__ [GTA V Mount Gordo Lighthouse Location](https://www.youtube.com/watch?v=IKnZKRWAgMU&ab_channel=JonahByrde)
-- - - __Software Development:__ [GTA Online Survive, Evade, Assault, Resist (SEAR) DLC]()
+- - - __Software Development:__ [GTA Online Survive, Evade, Assault, Resist (SEAR) DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/GTAO_Survive_Evade_Assault_Resist_(SEAR)_DLC/readme.md)
     - - - - - - - __Blog Entry:__ [GTA Online Survive, Evade, Assault, Resist (SEAR) DLC](https://edorejel.blogspot.com/2023/11/software-development-concept-gta-online_0.html) *An explanation of the GTA Online Survive, Evade, Assault, Resist DLC concept in blog form.*
 - - - __Software Development:__ [GTA Online Los Carteles DLC]()
 - - - __Software Development:__ [GTA Online Prison Life DLC]()
