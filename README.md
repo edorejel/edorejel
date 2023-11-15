@@ -68,13 +68,8 @@
 - - - __Software Development:__ [GTA Online Full Blown Military Mayhem DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/GTAO_Full_Blown_Military_Mayhem_DLC/readme.md#gta-online-full-blown-military-mayhem-dlc)
     - - - - - - - __Blog Entry:__ [GTA Online Full Blown Military Mayhem DLC](https://edorejel.blogspot.com/2023/11/software-development-concept-gta-online.html) *An explanation of the GTA Online Full Blown Military Mayhem DLC concept in blog form.*
 - - - __Software Development:__ [GTA Online Flying Angels DLC (Air Force themed DLC)]()
-- - - __Software Development:__ [GTA Online Alien Invasion San Andreas DLC]()
-    - - __Relevant Concept Research:__ Movie - [Invasion USA starring Chuck Norris](https://en.wikipedia.org/wiki/Invasion_U.S.A._(1985_film))
-      - - - - - - - __Movie Trailer:__ [Invasion USA](https://www.youtube.com/watch?v=E7iN5LKcE4A&ab_channel=AverageSuperstarT.V.)
-      - __Relevant Concept Research:__ Movie - [Mars Attacks](https://en.wikipedia.org/wiki/Mars_Attacks!)
-      - __Relevant Concept Research:__ Movie - [The Delta Force starring Chuck Norris](https://en.wikipedia.org/wiki/The_Delta_Force)
-      - - - - - - - __Movie Trailer:__ [The Delta Force](https://www.youtube.com/watch?v=eEqj2cBYUAo&ab_channel=MGM)
-                  - __Movie Trailer:__ [The Delta Force - "It's About Time" Scene](https://www.youtube.com/watch?v=TwnfJ8d9NqY&ab_channel=Movieclips) *Los Santos International Airport is perfect for this DLC.*
+- - - __Software Development:__ [GTA Online Alien Invasion San Andreas DLC](https://github.com/edorejel/teaching_docs/tree/main/projects/GTAO_Alien_Invasion_San_Andreas_DLC#gta-online-alien-invasion-san-andreas-dlc)
+    - - - - - - - __Blog Entry:__ [GTA Online Alien Invasion San Andreas DLC](https://edorejel.blogspot.com/2023/11/software-development-concept-gta-online_66.html)
 - - - __Software Development:__ [GTA Online Naval Sea Warfare DLC]()
     -  - __Relevant Concept Research:__ [U.S. Navy Seals](https://en.wikipedia.org/wiki/United_States_Navy_SEALs)
        - - - - - - - __Movie Trailer:__ [The Rock](https://www.youtube.com/watch?v=a3qcNyjj9ZQ&ab_channel=RottenTomatoesClassicTrailers)
