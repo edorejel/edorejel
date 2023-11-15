@@ -78,7 +78,7 @@
 - - - __Software Development:__ [GTA Online Survive, Evade, Assault, Resist (SEAR) DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/GTAO_Survive_Evade_Assault_Resist_(SEAR)_DLC/readme.md)
     - - - - - - - __Blog Entry:__ [GTA Online Survive, Evade, Assault, Resist (SEAR) DLC](https://edorejel.blogspot.com/2023/11/software-development-concept-gta-online_0.html) *An explanation of the GTA Online Survive, Evade, Assault, Resist DLC concept in blog form.*
 - - - __Software Development:__ [GTA Online Los Carteles DLC]()
-- - - __Software Development:__ [GTA Online Prison Life DLC]()
+- - - __Software Development:__ [GTA Online Prison Life DLC](https://github.com/edorejel/teaching_docs/tree/main/projects/GTAO_Prison_Life_DLC#gta-online-prison-life-dlc)
     - - - - - - - __Blog Entry:__ [GTA Online Prison Life DLC](https://edorejel.blogspot.com/2023/11/software-development-concept-gta-online_14.html) *An explanation of the GTA Online Prison Life DLC concept in blog form.*
       
 ### My Game Engine
