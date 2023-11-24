@@ -70,8 +70,8 @@
     - - - - - - - __Blog Entry:__ [GTA Online Full Blown Military Mayhem DLC](https://edorejel.blogspot.com/2023/11/software-development-concept-gta-online.html) *An explanation of the GTA Online Full Blown Military Mayhem DLC concept in blog form.*
 - - - __Software Development:__ [GTA Online Flying Angels DLC (Air Force themed DLC)]()
 - - - __Software Development:__ [GTA Online Alien Invasion San Andreas DLC](https://github.com/edorejel/teaching_docs/tree/main/projects/GTAO_Alien_Invasion_San_Andreas_DLC#gta-online-alien-invasion-san-andreas-dlc)
-    - - - - - - - __Blog Entry:__ [GTA Online Alien Invasion San Andreas DLC](https://edorejel.blogspot.com/2023/11/software-development-concept-gta-online_66.html)
-- - - __Software Development:__ [GTA Online Naval Sea Warfare DLC]()
+    - - - - - - - __Blog Entry:__ [GTA Online Alien Invasion San Andreas DLC](https://edorejel.blogspot.com/2023/11/software-development-concept-gta-online_66.html) *An explanation of the GTA Online Alien Invasion San Andreas DLC concept in blog form.*
+- - - __Software Development:__ [GTA Online Naval Sea Warfare DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/GTAO_Naval_Sea_Warfare_DLC/readme.md#gta-online-naval-sea-warfare-dlc)
     - - - - - - - __Blog Entry:__ [GTA Online Naval Sea Warfare DLC](https://edorejel.blogspot.com/2023/11/software-development-concept-gta-online_24.html) *An explanation of the GTA Online Naval Sea Warfare DLC concept in blog form.*
 - - - __Software Development:__ [GTA Online Survive, Evade, Assault, Resist (SEAR) DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/GTAO_Survive_Evade_Assault_Resist_(SEAR)_DLC/readme.md)
     - - - - - - - __Blog Entry:__ [GTA Online Survive, Evade, Assault, Resist (SEAR) DLC](https://edorejel.blogspot.com/2023/11/software-development-concept-gta-online_0.html) *An explanation of the GTA Online Survive, Evade, Assault, Resist DLC concept in blog form.*
