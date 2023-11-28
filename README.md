@@ -81,7 +81,7 @@
       
 ### My Game Engine (Coming soon!)
 - - - The Level Editor created in WPF and C#.
-    - The Game Engine created in C++.
+    - The Game Engine created in C++ and X64.
     -  - The Game Engine will be independent from the Level Editor.
        - A DLL will be used to link communication. 
     - The Graphics Engine - created in  C++.
