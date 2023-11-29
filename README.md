@@ -86,8 +86,8 @@
        - A DLL will be used to link communication. 
     - The Graphics Engine - created in  C++.
 
-### My DirectXI 3D-Game Programming Graphics (Coming soon!)
-- - - The graphics will be done using DirectXI and C++.
+### My DirectX11 3D-Game Programming Graphics (Coming soon!)
+- - - The graphics will be done using DirectX11 and C++.
    
 ### My Graphics Engine
 - - - Coming soon!
