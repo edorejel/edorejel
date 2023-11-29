@@ -80,8 +80,8 @@
     - - - - - - - __Blog Entry:__ [GTA Online Prison Life DLC](https://edorejel.blogspot.com/2023/11/software-development-concept-gta-online_14.html) *An explanation of the GTA Online Prison Life DLC concept in blog form.*
       
 ### My Game Engine (Coming soon!)
-- - - The Level Editor created in WPF and C#.
-    - The Game Engine created in C++ and X64.
+- - - The Level Editor - created in WPF and C#.
+    - The Game Engine - created in C++ and X64.
     -  - The Game Engine will be independent from the Level Editor.
        - A DLL will be used to link communication. 
     - The Graphics Engine - created in  C++.
