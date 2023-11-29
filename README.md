@@ -95,8 +95,8 @@
 ### My Physics Engine
 - - - Coming soon!
 
-### My Cryptography Engine
-- - - Coming soon!
+### My Cryptography Engine (Coming soon!)
+- - - *A cryptography engine to visualize Cryptography algorithms.*
 
 ## Artificial Intelligence
 - - - __Software Development (in progress):__ [Mind-Vision Rudimentary AI Software Concept](https://github.com/edorejel/software-design-lab/tree/main/ai_mind_vision)
