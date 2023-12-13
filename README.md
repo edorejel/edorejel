@@ -4,6 +4,11 @@
 - ➡️ I drive stickshift. 
 - 🌱 I’m currently learning a lot; learning never ends.
 
+# My Links
+- :pencil: My Blog: https://edorejel.blogspot.com/
+- :dart: My LinkedIn: https://www.linkedin.com/in/edorejel/
+- :point_right: Oh yeah, forgot to tell you, I'll be the best teacher/college lecturer that you could ever have. All my energy and effort are so that you become a successful college graduate. This is why Mr. O is Mr. O.
+
 # Music
 - 🎵 I'm always listening to this: [Legend by Otyken - Siberian Indigenous Music](https://www.youtube.com/watch?v=tXLoP9iSU5Y&list=RDtXLoP9iSU5Y)
 
@@ -160,10 +165,7 @@ There are many ways of analyzing COVID-19's impact. COVID-19's weaponization, po
 - - - __Student Work Sample #5:__ [Reflective Open-Ended Essay Question #3 - "To Loop or Not To Loop" Programming without Loops?](https://github.com/edorejel/teaching_docs/blob/main/cs116_chapter5_reflective_writing_assignment_1.pdf) 
 - - - __Student Work Sample #6:__ [Sample Software Engineering Project: Language Translation Using Technology](https://github.com/edorejel/teaching_docs/blob/main/sample_SWE_project_TLT.pdf) 
 
-## My Links
-- - :pencil: My Blog: https://edorejel.blogspot.com/
-- - :dart: My LinkedIn: https://www.linkedin.com/in/edorejel/
-- :point_right: Oh yeah, forgot to tell you, I'll be the best teacher/college lecturer that you could ever have. All my energy and effort are so that you become a successful college graduate. This is why Mr. O is Mr. O.
+
 
 
 
