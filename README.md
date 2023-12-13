@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning a lot; learning never ends.
 
 # My Links
-- :pencil: My Blog: https://edorejel.blogspot.com/
-- :dart: My LinkedIn: https://www.linkedin.com/in/edorejel/
+- 📝 My Blog: https://edorejel.blogspot.com/
+- 🎯 My LinkedIn: https://www.linkedin.com/in/edorejel/
 - :point_right: Oh yeah, forgot to tell you, I'll be the best teacher/college lecturer that you could ever have. All my energy and effort are so that you become a successful college graduate. This is why Mr. O is Mr. O.
 
 # Music
