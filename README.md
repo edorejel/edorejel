@@ -45,7 +45,7 @@
 #### The Original Software Design Concept
 - - - __Software Development (in progress):__ __Original Draft of Concept__ [GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_v8.pdf)
 - - - __Software Development (in progress):__ [Component View of All Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_components_v8.pdf)
-- - - - - - - __Blog Entry:__ [GTA Online Spy Satellite DLC](https://edorejel.blogspot.com/2023/11/software-development-concept-gta-online_16.html) *Blog entry on the GTA Online Spy Satellite DLC.*
+- - - - - - - __Blog Entry:__ [GTA Online Spy Satellite DLC](https://edorejel.blogspot.com/p/gta-online-spy-satellite-dlc.html) *Blog entry on the GTA Online Spy Satellite DLC.*
             
 #### The Military Group Services
 - - - __Software Development (in progress):__ [RC Airplane and RC Helicopter - Smart Vehicle - Military Weapons - Military Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtao_spy_satellite_dlc_rc_airplanes_rc_helicopter.pdf)
