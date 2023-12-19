@@ -40,7 +40,8 @@
 
 ## Video Games, Game Engines, Graphics Engines, Physics Engines, Cryptography Engines
 
-### GTA Online Spy Satellite DLC Concept
+### GTA Online Spy Satellite DLC Concept 
+The GTA Online Spy Satellite DLC was created from the user's perspective, using Computer Science and Software Engineering principles. No type of code or documentation related to GTA Online was used to create the GTA Online Spy Satellite DLC. More information can be found at [homepage for the GTA Online Spy Satellite DLC](https://edorejel.blogspot.com/p/gta-online-spy-satellite-dlc.html). 
 
 #### The Original Software Design Concept
 - - - __Software Development (in progress):__ __Original Draft of Concept__ [GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_v8.pdf)
