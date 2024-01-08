@@ -4,6 +4,9 @@
 - ➡️ I drive stickshift. 
 - 🌱 I’m currently learning a lot; learning never ends.
 
+# Interview Etiquette
+- All interviews without proper time to prepare and without adequeate details about the nature of the interview will be declined. Some exceptions may be made. Serious inquiries only.
+ 
 # My Links
 - 📝 My Blog: https://edorejel.blogspot.com/
 - 🎯 My LinkedIn: https://www.linkedin.com/in/edorejel/
