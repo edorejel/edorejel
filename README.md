@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning a lot; learning never ends.
 
 # Interview Etiquette
-- All interviews without proper time to prepare and without adequate details about the nature of the interview will be declined. Some exceptions may be made. Serious inquiries only.
+- All interviews without proper time to prepare and without adequate details about the nature of the interview will be declined. Some exceptions may be made. Serious inquiries only. See [Interview Etiquette Link](https://github.com/edorejel/teaching_docs/blob/main/interview_etiquette/Screenshot%202024-01-08%20111712.png).
  
 # My Links
 - 📝 My Blog: https://edorejel.blogspot.com/
