@@ -77,7 +77,9 @@ The GTA Online Spy Satellite DLC was created from the user's perspective, using 
 ### Other GTA Online DLC Concepts
 - - - __Software Development:__ [GTA Online K9 DLC]()
 - - - __Software Development:__ [GTA Online Police DLC]()
-    - - - - - - - __Blog Entry:__ [GTA Online Police DLC](https://edorejel.blogspot.com/2024/01/gta-online-police-dlc-swatting-snitches.html) *An explanation of the GTA Online Police DLC concept in blog form.* 
+    - - - - - - - __Blog Entry:__ [GTA Online Police DLC](https://edorejel.blogspot.com/2024/01/gta-online-police-dlc-swatting-snitches.html) *An explanation of the GTA Online Police DLC concept in blog form.*
+- - - __Software Development:__ [GTA Online Police DLC Part 2: The SWAT Team Update - When Cops Call 911]()
+    - - - - - - - __Blog Entry:__ [The SWAT Team Update - GTA Online Police DLC Part 2](https://edorejel.blogspot.com/2024/01/gta-online-police-dlc-part-2-swat-team.html) *An explanation of the GTA Online Police DLC Part 2: The SWAT Team Update in blog form.*
 - - - __Software Development:__ [GTA Online Full Blown Military Mayhem DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/GTAO_Full_Blown_Military_Mayhem_DLC/readme.md#gta-online-full-blown-military-mayhem-dlc)
     - - - - - - - __Blog Entry:__ [GTA Online Full Blown Military Mayhem DLC](https://edorejel.blogspot.com/2023/11/software-development-concept-gta-online.html) *An explanation of the GTA Online Full Blown Military Mayhem DLC concept in blog form.*
 - - - __Software Development:__ [GTA Online Flying Angels DLC (Air Force themed DLC)]()
