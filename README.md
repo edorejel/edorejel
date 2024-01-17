@@ -52,45 +52,45 @@ The GTA Online Spy Satellite DLC was created from the user's perspective, using 
 - - - - - - - __Blog Entry:__ [GTA Online Spy Satellite DLC](https://edorejel.blogspot.com/p/gta-online-spy-satellite-dlc.html) *Blog entry on the GTA Online Spy Satellite DLC.*
             
 #### The Military Group Services
-- - - __Software Development (in progress):__ [RC Emergency Vehicles - RC Police Car, RC Fire Truck, RC Ambulance - Military Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtao_spy_satellite_dlc_rc_emergency_vehicles_12182023_1639.pdf)
-- - - __Software Development (in progress):__ [RC Airplane and RC Helicopter - Smart Vehicle - Military Weapons - Military Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtao_spy_satellite_dlc_rc_airplanes_rc_helicopter.pdf)
-- - - __Software Development (in progress):__ [Targeted Military Directed Energy (Laser) Strike - Military Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtao_spy_satellite_dlc_targeted_military_laser_strike.pdf)
-- - - __Software Development (in progress):__ [Direct Energy (Laser) Aircraft - Military Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtao_spy_satellite_dlc_direct_energy_laser_aircraft.pdf)
-- - - __Software Development (in progress):__ [Direct Energy (Laser) Vehicles - Military Services - GTA Online Spy Satelltie DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtao_spy_satellite_dlc_direct_energy_laser_vehicle.pdf)
-- - - __Software Development (in progress):__ [Reaper or Predator Drone Targeting System - Military Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_predator_reaper_drone_targeting.pdf)
-- - - __Software Development (in progress):__ [Electromagnetic Pulse (EMP) Vehicle Concept - Military Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_v8_emp_vehicle.pdf)
-- - - __Software Development (in progress):__ [Enhanced Missiles Concept - Military Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_v8_enhanced_missiles.pdf)
-- - - __Software Development (in progress):__ [Smart Bullets Concept - Military Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_military_services_smart_bullets.pdf)
-- - - __Software Development (in progress):__ [Jet Car - Smart Vehicles - Military Weapons - Military Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtao_spy_satellite_dlc_jet_car_smart_vehicle.pdf)
-- - - __Software Development (in progress):__ [Jet Big Rig - Smart Vehicles - Military Weapons - Military Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtao_spy_satellite_dlc_jet_big_rig_smart_vehicle.pdf)
-- - - __Software Development (in progress):__ [Helicopter Car (or Truck) - Smart Vehicles - Military Weapons - Military Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtao_spy_satellite_dlc_helicopter_car_smart_vehicle.pdf)
+[RC Emergency Vehicles - RC Police Car, RC Fire Truck, RC Ambulance - Military Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtao_spy_satellite_dlc_rc_emergency_vehicles_12182023_1639.pdf)
+[RC Airplane and RC Helicopter - Smart Vehicle - Military Weapons - Military Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtao_spy_satellite_dlc_rc_airplanes_rc_helicopter.pdf)
+[Targeted Military Directed Energy (Laser) Strike - Military Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtao_spy_satellite_dlc_targeted_military_laser_strike.pdf)
+[Direct Energy (Laser) Aircraft - Military Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtao_spy_satellite_dlc_direct_energy_laser_aircraft.pdf)
+[Direct Energy (Laser) Vehicles - Military Services - GTA Online Spy Satelltie DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtao_spy_satellite_dlc_direct_energy_laser_vehicle.pdf)
+[Reaper or Predator Drone Targeting System - Military Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_predator_reaper_drone_targeting.pdf)
+[Electromagnetic Pulse (EMP) Vehicle Concept - Military Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_v8_emp_vehicle.pdf)
+[Enhanced Missiles Concept - Military Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_v8_enhanced_missiles.pdf)
+[Smart Bullets Concept - Military Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_military_services_smart_bullets.pdf)
+[Jet Car - Smart Vehicles - Military Weapons - Military Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtao_spy_satellite_dlc_jet_car_smart_vehicle.pdf)
+[Jet Big Rig - Smart Vehicles - Military Weapons - Military Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtao_spy_satellite_dlc_jet_big_rig_smart_vehicle.pdf)
+[Helicopter Car (or Truck) - Smart Vehicles - Military Weapons - Military Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtao_spy_satellite_dlc_helicopter_car_smart_vehicle.pdf)
        
 #### The Shadow Hacker Group Services
-- - - __Software Development (in progress):__ [Vehicle Hacking Aerial Drone - Hacker Services - Shadow Hacker Group Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_DLC_hacker_services_car_hacking_drone.pdf)
-- - - __Software Development (in progress):__ ![Cellular Phone Hacking Icon](https://github.com/edorejel/edorejel/assets/110068017/70f22302-3afb-4bf4-85c8-bd081bfeaccd)[Cellular Phone Hacking Services - Hacking Services - Shadow Hacker Group Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_hacker_services_cellphone_hacking.pdf)
-- - - __Software Development (in progress):__ ![Social Engineering Icon](https://github.com/edorejel/teaching_docs/blob/main/projects/GTAOnline_Spy_Satellite_DLC_Navigation_Icons/social_engineering_services_icons.png)[Social Engineering - Cellular Phone Hacking Services - Hacking Services - Shadow Hacker Group Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_hacker_services_social_engineering.pdf)
+[Vehicle Hacking Aerial Drone - Hacker Services - Shadow Hacker Group Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_DLC_hacker_services_car_hacking_drone.pdf)
+![Cellular Phone Hacking Icon](https://github.com/edorejel/edorejel/assets/110068017/70f22302-3afb-4bf4-85c8-bd081bfeaccd)[Cellular Phone Hacking Services - Hacking Services - Shadow Hacker Group Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_hacker_services_cellphone_hacking.pdf)
+![Social Engineering Icon](https://github.com/edorejel/teaching_docs/blob/main/projects/GTAOnline_Spy_Satellite_DLC_Navigation_Icons/social_engineering_services_icons.png)[Social Engineering - Cellular Phone Hacking Services - Hacking Services - Shadow Hacker Group Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_hacker_services_social_engineering.pdf)
     - - - - - - - __Blog Entry:__ [Social Engineering - GTA Online Spy Satellite DLC](https://edorejel.blogspot.com/2024/01/social-engineering-snitching-swatting.html) *An explanation of the Social Engineering component of the GTA Online Spy Satellite DLC in blog form.*
-- - - __Software Development (in progress):__ [Attack Drone Swarm - Hacking Services - Shadow Hacker Group Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_hacker_services_attack_drone_swarm.pdf)
-- - - __Software Development (in progress):__ [Cell Phone Explode Services - Hacking Services - Shadow Hacker Group Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gta_spy_satellite_dlc_cell_phone_explode_hacker_group.pdf)
-- - - __Software Development (in progress):__ [RC Transformer-Type Vehicles - Attacking Services - Shadow Hacker Group Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtao_spy_satellite_dlc_rc_transformers_11102023_1957.pdf)
+[Attack Drone Swarm - Hacking Services - Shadow Hacker Group Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_hacker_services_attack_drone_swarm.pdf)
+[Cell Phone Explode Services - Hacking Services - Shadow Hacker Group Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gta_spy_satellite_dlc_cell_phone_explode_hacker_group.pdf)
+[RC Transformer-Type Vehicles - Attacking Services - Shadow Hacker Group Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtao_spy_satellite_dlc_rc_transformers_11102023_1957.pdf)
 
 ### Other GTA Online DLC Concepts
-- - - __Software Development:__ [GTA Online K9 DLC]()
-- - - __Software Development:__ [GTA Online Police DLC]()
+[GTA Online K9 DLC]()
+[GTA Online Police DLC]()
     - - - - - - - __Blog Entry:__ [GTA Online Police DLC](https://edorejel.blogspot.com/2024/01/gta-online-police-dlc-swatting-snitches.html) *An explanation of the GTA Online Police DLC concept in blog form.*
-- - - __Software Development:__ [GTA Online Police DLC Part 2: The SWAT Team Update - When Cops Call 911]()
+[GTA Online Police DLC Part 2: The SWAT Team Update - When Cops Call 911]()
     - - - - - - - __Blog Entry:__ [The SWAT Team Update - GTA Online Police DLC Part 2](https://edorejel.blogspot.com/2024/01/gta-online-police-dlc-part-2-swat-team.html) *An explanation of the GTA Online Police DLC Part 2: The SWAT Team Update in blog form.*
-- - - __Software Development:__ [GTA Online Full Blown Military Mayhem DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/GTAO_Full_Blown_Military_Mayhem_DLC/readme.md#gta-online-full-blown-military-mayhem-dlc)
+[GTA Online Full Blown Military Mayhem DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/GTAO_Full_Blown_Military_Mayhem_DLC/readme.md#gta-online-full-blown-military-mayhem-dlc)
     - - - - - - - __Blog Entry:__ [GTA Online Full Blown Military Mayhem DLC](https://edorejel.blogspot.com/2023/11/software-development-concept-gta-online.html) *An explanation of the GTA Online Full Blown Military Mayhem DLC concept in blog form.*
-- - - __Software Development:__ [GTA Online Flying Angels DLC (Air Force themed DLC)]()
-- - - __Software Development:__ [GTA Online Alien Invasion San Andreas DLC](https://github.com/edorejel/teaching_docs/tree/main/projects/GTAO_Alien_Invasion_San_Andreas_DLC#gta-online-alien-invasion-san-andreas-dlc)
+[GTA Online Flying Angels DLC (Air Force themed DLC)]()
+[GTA Online Alien Invasion San Andreas DLC](https://github.com/edorejel/teaching_docs/tree/main/projects/GTAO_Alien_Invasion_San_Andreas_DLC#gta-online-alien-invasion-san-andreas-dlc)
     - - - - - - - __Blog Entry:__ [GTA Online Alien Invasion San Andreas DLC](https://edorejel.blogspot.com/2023/11/software-development-concept-gta-online_66.html) *An explanation of the GTA Online Alien Invasion San Andreas DLC concept in blog form.*
-- - - __Software Development:__ [GTA Online Naval Sea Warfare DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/GTAO_Naval_Sea_Warfare_DLC/readme.md#gta-online-naval-sea-warfare-dlc)
+[GTA Online Naval Sea Warfare DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/GTAO_Naval_Sea_Warfare_DLC/readme.md#gta-online-naval-sea-warfare-dlc)
     - - - - - - - __Blog Entry:__ [GTA Online Naval Sea Warfare DLC](https://edorejel.blogspot.com/2023/11/software-development-concept-gta-online_24.html) *An explanation of the GTA Online Naval Sea Warfare DLC concept in blog form.*
-- - - __Software Development:__ [GTA Online Survive, Evade, Assault, Resist (SEAR) DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/GTAO_Survive_Evade_Assault_Resist_(SEAR)_DLC/readme.md)
+[GTA Online Survive, Evade, Assault, Resist (SEAR) DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/GTAO_Survive_Evade_Assault_Resist_(SEAR)_DLC/readme.md)
     - - - - - - - __Blog Entry:__ [GTA Online Survive, Evade, Assault, Resist (SEAR) DLC](https://edorejel.blogspot.com/2023/11/software-development-concept-gta-online_0.html) *An explanation of the GTA Online Survive, Evade, Assault, Resist DLC concept in blog form.*
-- - - __Software Development:__ [GTA Online Los Carteles DLC]()
-- - - __Software Development:__ [GTA Online Prison Life DLC](https://github.com/edorejel/teaching_docs/tree/main/projects/GTAO_Prison_Life_DLC#gta-online-prison-life-dlc)
+[GTA Online Los Carteles DLC]()
+[GTA Online Prison Life DLC](https://github.com/edorejel/teaching_docs/tree/main/projects/GTAO_Prison_Life_DLC#gta-online-prison-life-dlc)
     - - - - - - - __Blog Entry:__ [GTA Online Prison Life DLC](https://edorejel.blogspot.com/2023/11/software-development-concept-gta-online_14.html) *An explanation of the GTA Online Prison Life DLC concept in blog form.*
       
 ### My Game Engine (Coming soon!)
