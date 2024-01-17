@@ -47,8 +47,8 @@
 The GTA Online Spy Satellite DLC was created from the user's perspective, using Computer Science and Software Engineering principles. No type of code or documentation related to GTA Online was used to create the GTA Online Spy Satellite DLC. More information can be found at [homepage for the GTA Online Spy Satellite DLC](https://edorejel.blogspot.com/p/gta-online-spy-satellite-dlc.html). 
 
 #### The Original Software Design Concept 
-- - - __Software Development (in progress):__ ![first draft icon](https://github.com/edorejel/teaching_docs/blob/main/projects/GTAOnline_Spy_Satellite_DLC_Navigation_Icons/first_draft_icon.png) __Original Draft of Concept__ [GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_v8.pdf)
-- - - __Software Development (in progress):__ [Component View of All Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_components_v8.pdf)
+![first draft icon](https://github.com/edorejel/teaching_docs/blob/main/projects/GTAOnline_Spy_Satellite_DLC_Navigation_Icons/first_draft_icon.png) __Original Draft of Concept__ [GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_v8.pdf)
+[Component View of All Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_components_v8.pdf)
 - - - - - - - __Blog Entry:__ [GTA Online Spy Satellite DLC](https://edorejel.blogspot.com/p/gta-online-spy-satellite-dlc.html) *Blog entry on the GTA Online Spy Satellite DLC.*
             
 #### The Military Group Services
