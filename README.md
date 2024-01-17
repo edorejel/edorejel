@@ -45,8 +45,7 @@
 
 ### GTA Online Spy Satellite DLC Navigation Menu Icons
 Use the icons below to navigate to the components of the GTA Online Spy Satellite DLC
-[Cellular Phone Hacking Icon](![image](https://github.com/edorejel/edorejel/assets/110068017/70f22302-3afb-4bf4-85c8-bd081bfeaccd)
-)
+![Cellular Phone Hacking Icon](https://github.com/edorejel/edorejel/assets/110068017/70f22302-3afb-4bf4-85c8-bd081bfeaccd)
 
 
 ### GTA Online Spy Satellite DLC Concept 
