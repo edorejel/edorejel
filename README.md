@@ -43,11 +43,6 @@
 
 ## Video Games, Game Engines, Graphics Engines, Physics Engines, Cryptography Engines
 
-### GTA Online Spy Satellite DLC Navigation Menu Icons
-Use the icons below to navigate to the components of the GTA Online Spy Satellite DLC
-![Cellular Phone Hacking Icon](https://github.com/edorejel/edorejel/assets/110068017/70f22302-3afb-4bf4-85c8-bd081bfeaccd)
-
-
 ### GTA Online Spy Satellite DLC Concept 
 The GTA Online Spy Satellite DLC was created from the user's perspective, using Computer Science and Software Engineering principles. No type of code or documentation related to GTA Online was used to create the GTA Online Spy Satellite DLC. More information can be found at [homepage for the GTA Online Spy Satellite DLC](https://edorejel.blogspot.com/p/gta-online-spy-satellite-dlc.html). 
 
@@ -73,7 +68,7 @@ The GTA Online Spy Satellite DLC was created from the user's perspective, using 
 #### The Shadow Hacker Group Services
 - - - __Software Development (in progress):__ [Vehicle Hacking Aerial Drone - Hacker Services - Shadow Hacker Group Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_DLC_hacker_services_car_hacking_drone.pdf)
 - - - __Software Development (in progress):__ ![Cellular Phone Hacking Icon](https://github.com/edorejel/edorejel/assets/110068017/70f22302-3afb-4bf4-85c8-bd081bfeaccd)[Cellular Phone Hacking Services - Hacking Services - Shadow Hacker Group Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_hacker_services_cellphone_hacking.pdf)
-- - - __Software Development (in progress):__ [Social Engineering - Cellular Phone Hacking Services - Hacking Services - Shadow Hacker Group Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_hacker_services_social_engineering.pdf)
+- - - __Software Development (in progress):__ ![Social Engineering Icon](https://github.com/edorejel/teaching_docs/blob/main/projects/GTAOnline_Spy_Satellite_DLC_Navigation_Icons/social_engineering_services_icons.png)[Social Engineering - Cellular Phone Hacking Services - Hacking Services - Shadow Hacker Group Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_hacker_services_social_engineering.pdf)
     - - - - - - - __Blog Entry:__ [Social Engineering - GTA Online Spy Satellite DLC](https://edorejel.blogspot.com/2024/01/social-engineering-snitching-swatting.html) *An explanation of the Social Engineering component of the GTA Online Spy Satellite DLC in blog form.*
 - - - __Software Development (in progress):__ [Attack Drone Swarm - Hacking Services - Shadow Hacker Group Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_hacker_services_attack_drone_swarm.pdf)
 - - - __Software Development (in progress):__ [Cell Phone Explode Services - Hacking Services - Shadow Hacker Group Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gta_spy_satellite_dlc_cell_phone_explode_hacker_group.pdf)
