@@ -73,7 +73,7 @@ The GTA Online Spy Satellite DLC was created from the user's perspective, using 
 - - - [Attack Drone Swarm - Hacking Services - Shadow Hacker Group Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_hacker_services_attack_drone_swarm.pdf)
 - - - [Cell Phone Explode Services - Hacking Services - Shadow Hacker Group Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gta_spy_satellite_dlc_cell_phone_explode_hacker_group.pdf)
 - - - [RC Transformer-Type Vehicles - Attacking Services - Shadow Hacker Group Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtao_spy_satellite_dlc_rc_transformers_11102023_1957.pdf)
-- - - [CCTV Surveillance Camera Hacking - Hacker Services - Hacking - Shadow Hacker Group - GTA Online Spy Satellite DLC]()
+- - - ![CCTV Hacking Icon](https://github.com/edorejel/teaching_docs/blob/main/projects/GTAOnline_Spy_Satellite_DLC_Navigation_Icons/CCTV_camera_icon.png)[CCTV Surveillance Camera Hacking - Hacker Services - Hacking - Shadow Hacker Group - GTA Online Spy Satellite DLC]()
     - - - - - - - __Blog Entry:__ [CCTV Surveillance Camera Hacking - GTA Online Spy Satellite DLC](https://edorejel.blogspot.com/2024/01/cctv-surveillance-camera-hacking-access.html) *An explanation of the CCTV Surveillance Camera Hacking component of the GTA Online SPy Satellite DLC in blog form.* 
 
 ### Other GTA Online DLC Concepts
