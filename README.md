@@ -21,6 +21,7 @@
 - - - Other topics under consideration.
       
 # Favorite Quotes
+- _I'm the Software Engineer; you are not. Stay mad!_ - Source: me.
 - _No Automata Theory, no Software Engineery. Go cry!_ - Source: me.
 - _Without Computer Science, you will never be a software engineer. Stay mad!_ - Source: me.
 - _As a matter-of-fact, I do make the software that your IT department uses. What do you think Computer Scientists and Software Engineers do?_ - Source: me.
