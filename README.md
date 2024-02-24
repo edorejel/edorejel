@@ -1,4 +1,4 @@
-# Hi 😃
+# Hi 
 -  I’m Ed Orejel, M.S.C.S. (Master of Science in Computer Science)
 - 👀 I’m interested in not being interested.
 - ➡️ I drive stickshift. 
@@ -16,7 +16,7 @@
 - 🎵 I'm always listening to this: [Legend by Otyken - Siberian Indigenous Music](https://www.youtube.com/watch?v=tXLoP9iSU5Y&list=RDtXLoP9iSU5Y)
 
 # Currently Thinking About
-- 📚📝🙂 A PhD in Computer Science (other degrees, too).
+- 📚📝 A PhD in Computer Science (other degrees, too).
 - - - I might try to prove Descartes is the "father" of Artificial Intelligence and all of Computer Science (still not sure though).
 - - - Other topics under consideration.
       
