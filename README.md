@@ -62,7 +62,7 @@ The GTA Online Spy Satellite DLC was created from the user's perspective, using 
 - - - [Electromagnetic Pulse (EMP) Vehicle Concept - Military Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_v8_emp_vehicle.pdf)
 - - - [Enhanced Missiles Concept - Military Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_v8_enhanced_missiles.pdf)
 - - - [Smart Bullets Concept - Military Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_military_services_smart_bullets.pdf)
-- - - [Jet Car - Smart Vehicles - Military Weapons - Military Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtao_spy_satellite_dlc_jet_car_smart_vehicle.pdf)
+- - - ![AI-Enhanced jet car icon](https://github.com/edorejel/teaching_docs/blob/main/projects/GTAOnline_Spy_Satellite_DLC_Navigation_Icons/jet_car_icon.png)[Jet Car - Smart Vehicles - Military Weapons - Military Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtao_spy_satellite_dlc_jet_car_smart_vehicle.pdf)
 - - - [Jet Big Rig - Smart Vehicles - Military Weapons - Military Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtao_spy_satellite_dlc_jet_big_rig_smart_vehicle.pdf)
 - - - [Helicopter Car (or Truck) - Smart Vehicles - Military Weapons - Military Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtao_spy_satellite_dlc_helicopter_car_smart_vehicle.pdf)
        
