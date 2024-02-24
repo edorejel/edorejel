@@ -26,7 +26,7 @@
 - _Without Computer Science, you will never be a software engineer. Stay mad!_ - Source: me.
 - _As a matter-of-fact, I do make the software that your IT department uses. What do you think Computer Scientists and Software Engineers do?_ - Source: me.
 
-# Academic Material 🤓
+# Academic Material 
 - :pencil: [My Sample Teaching Philosophy Statement](https://github.com/edorejel/teaching_docs/blob/main/teaching_philosophy_statement/teaching_statement_page_1.pdf) - _Page 1 of the Teaching Philosophy has been uploaded. The entire statement is given upon request with intent to hire!_
 - :pencil: [My Sample Inclusivity & Diversity Statement](https://github.com/edorejel/teaching_docs/blob/main/equity_diversity_statement/page_1_diversity_equity_statement.pdf) - _Page 1 of the statement has been uploaded. The entire statement is given upon request with intent to hire!_
 - :pencil: Training & Experience Statement - _given upon request with intent to hire!_
