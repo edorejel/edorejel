@@ -1,4 +1,4 @@
-# Hi 
+# Intro
 -  I’m Ed Orejel, M.S.C.S. (Master of Science in Computer Science)
 - 👀 I’m interested in not being interested.
 - ➡️ I drive stickshift. 
