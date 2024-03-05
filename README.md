@@ -47,6 +47,11 @@
 ### GTA Online Spy Satellite DLC Concept  
 ![Satellite Icon](https://github.com/edorejel/teaching_docs/blob/main/projects/GTAOnline_Spy_Satellite_DLC_Navigation_Icons/satellite_icon.png) The GTA Online Spy Satellite DLC was created from the user's perspective, using Computer Science and Software Engineering principles. No type of code or documentation related to GTA Online was used to create the GTA Online Spy Satellite DLC. More information can be found at [homepage for the GTA Online Spy Satellite DLC](https://edorejel.blogspot.com/p/gta-online-spy-satellite-dlc.html). 
 
+#### The Original Software Design Concept 
+![first draft icon](https://github.com/edorejel/teaching_docs/blob/main/projects/GTAOnline_Spy_Satellite_DLC_Navigation_Icons/first_draft_icon.png) __Original Draft of Concept__ [GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_v8.pdf)
+[Component View of All Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_components_v8.pdf)
+- - - - - - - __Blog Entry:__ [GTA Online Spy Satellite DLC](https://edorejel.blogspot.com/p/gta-online-spy-satellite-dlc.html) *Blog entry on the GTA Online Spy Satellite DLC.*
+
 ### Main Software Component Architecture - Shadow Hacker Group Services - GTA Online Spy Satellite DLC
 ![Shadow Hacker Group Icon](https://github.com/edorejel/teaching_docs/blob/main/projects/GTAOnline_Spy_Satellite_DLC_Navigation_Icons/shadow_hacker_group_icon.png) [Shadow Hacker Group Services - Top-Level Component View - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_shadow_hacker_group_components_v8.pdf) 
 - - - - - - - __Blog Entry:__ [Shadow Hacker Group Services - GTA Online Spy Satellite DLC](https://edorejel.blogspot.com/2024/03/shadow-hacker-group-services-all-shadow.html) *An explanation of the Shadow Hacker Group Services in blog form.*
@@ -55,11 +60,6 @@
 ![Military Services Icon](https://github.com/edorejel/teaching_docs/blob/main/projects/GTAOnline_Spy_Satellite_DLC_Navigation_Icons/military_group_services_icon.png) [Military Group Services - Top-Level Component View - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_military_group_components_v8.pdf)
 - - - - - - - __Blog Entry:__ [Military Group Service - GTA Online Spy Satellite DLC](https://edorejel.blogspot.com/2024/02/military-group-military-services.html) *An explanation of the Military Group Services in blog form.*
 
-#### The Original Software Design Concept 
-![first draft icon](https://github.com/edorejel/teaching_docs/blob/main/projects/GTAOnline_Spy_Satellite_DLC_Navigation_Icons/first_draft_icon.png) __Original Draft of Concept__ [GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_v8.pdf)
-[Component View of All Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_components_v8.pdf)
-- - - - - - - __Blog Entry:__ [GTA Online Spy Satellite DLC](https://edorejel.blogspot.com/p/gta-online-spy-satellite-dlc.html) *Blog entry on the GTA Online Spy Satellite DLC.*
-            
 #### The Military Group Services
 - - - [RC Emergency Vehicles - RC Police Car, RC Fire Truck, RC Ambulance - Military Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtao_spy_satellite_dlc_rc_emergency_vehicles_12182023_1639.pdf)
 - - - [RC Airplane and RC Helicopter - Smart Vehicle - Military Weapons - Military Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtao_spy_satellite_dlc_rc_airplanes_rc_helicopter.pdf)
