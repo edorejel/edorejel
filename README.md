@@ -44,8 +44,14 @@
 
 ## Video Games, Game Engines, Graphics Engines, Physics Engines, Cryptography Engines
 
-### GTA Online Spy Satellite DLC Concept ![Satellite Icon](https://github.com/edorejel/teaching_docs/blob/main/projects/GTAOnline_Spy_Satellite_DLC_Navigation_Icons/satellite_icon.png) 
-The GTA Online Spy Satellite DLC was created from the user's perspective, using Computer Science and Software Engineering principles. No type of code or documentation related to GTA Online was used to create the GTA Online Spy Satellite DLC. More information can be found at [homepage for the GTA Online Spy Satellite DLC](https://edorejel.blogspot.com/p/gta-online-spy-satellite-dlc.html). 
+### GTA Online Spy Satellite DLC Concept  
+![Satellite Icon](https://github.com/edorejel/teaching_docs/blob/main/projects/GTAOnline_Spy_Satellite_DLC_Navigation_Icons/satellite_icon.png) The GTA Online Spy Satellite DLC was created from the user's perspective, using Computer Science and Software Engineering principles. No type of code or documentation related to GTA Online was used to create the GTA Online Spy Satellite DLC. More information can be found at [homepage for the GTA Online Spy Satellite DLC](https://edorejel.blogspot.com/p/gta-online-spy-satellite-dlc.html). 
+
+### Main Software Component Architecture - Shadow Hacker Group Services - GTA Online Spy Satellite DLC
+![Shadow Hacker Group Icon](https://github.com/edorejel/teaching_docs/blob/main/projects/GTAOnline_Spy_Satellite_DLC_Navigation_Icons/shadow_hacker_group_icon.png)[Shadow Hacker Group Services - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_shadow_hacker_group_components_v8.pdf) 
+
+### Main Software Component Architecture - Military Group Services - GTA Online Spy Satellite DLC
+![Military Services Icon](https://github.com/edorejel/teaching_docs/blob/main/projects/GTAOnline_Spy_Satellite_DLC_Navigation_Icons/military_group_services_icon.png)[Military Group Services - Top-Level Component View - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_military_group_components_v8.pdf)
 
 #### The Original Software Design Concept 
 ![first draft icon](https://github.com/edorejel/teaching_docs/blob/main/projects/GTAOnline_Spy_Satellite_DLC_Navigation_Icons/first_draft_icon.png) __Original Draft of Concept__ [GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_v8.pdf)
