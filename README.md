@@ -49,10 +49,11 @@
 
 ### Main Software Component Architecture - Shadow Hacker Group Services - GTA Online Spy Satellite DLC
 ![Shadow Hacker Group Icon](https://github.com/edorejel/teaching_docs/blob/main/projects/GTAOnline_Spy_Satellite_DLC_Navigation_Icons/shadow_hacker_group_icon.png) [Shadow Hacker Group Services - Top-Level Component View - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_shadow_hacker_group_components_v8.pdf) 
-- - - - - - - __Blog Entry:__ [Military Group Service - GTA Online Spy Satellite DLC](https://edorejel.blogspot.com/2024/02/military-group-military-services.html) *An explanation of the Military Group Services in blog form.*
+- - - - - - - __Blog Entry:__ [Shadow Hacker Group Services](https://edorejel.blogspot.com/2024/03/shadow-hacker-group-services-all-shadow.html) *An explanation of the Shadow Hacker Group Services in blog form.*
+
 ### Main Software Component Architecture - Military Group Services - GTA Online Spy Satellite DLC
 ![Military Services Icon](https://github.com/edorejel/teaching_docs/blob/main/projects/GTAOnline_Spy_Satellite_DLC_Navigation_Icons/military_group_services_icon.png) [Military Group Services - Top-Level Component View - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_military_group_components_v8.pdf)
-- - - - - - - __Blog Entry:__ [Shadow Hacker Group Services](https://edorejel.blogspot.com/2024/03/shadow-hacker-group-services-all-shadow.html) *An explanation of the Shadow Hacker Group Services in blog form.*
+- - - - - - - __Blog Entry:__ [Military Group Service - GTA Online Spy Satellite DLC](https://edorejel.blogspot.com/2024/02/military-group-military-services.html) *An explanation of the Military Group Services in blog form.*
 
 #### The Original Software Design Concept 
 ![first draft icon](https://github.com/edorejel/teaching_docs/blob/main/projects/GTAOnline_Spy_Satellite_DLC_Navigation_Icons/first_draft_icon.png) __Original Draft of Concept__ [GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_v8.pdf)
