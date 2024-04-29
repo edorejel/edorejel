@@ -53,8 +53,8 @@
 - - - - - - - __Blog Entry:__ [GTA Online Spy Satellite DLC](https://edorejel.blogspot.com/p/gta-online-spy-satellite-dlc.html) *Blog entry on the GTA Online Spy Satellite DLC.*
 
 ### Main Software Architecture of the GTA Online Spy Satellite DLC
-The main component architecture is featured in this presentation.
-![Satellite Icon](https://github.com/edorejel/teaching_docs/blob/main/projects/GTAOnline_Spy_Satellite_DLC_Navigation_Icons/first_draft_icon.png)[https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_components_v8.pdf](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_components_v8.pdf)
+![Satellite Icon](https://github.com/edorejel/teaching_docs/blob/main/projects/GTAOnline_Spy_Satellite_DLC_Navigation_Icons/satellite_icon.png)The main component architecture is featured in this presentation.
+[https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_components_v8.pdf](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_components_v8.pdf)
 
 ### Main Software Component Architecture - Shadow Hacker Group Services - GTA Online Spy Satellite DLC
 ![Shadow Hacker Group Icon](https://github.com/edorejel/teaching_docs/blob/main/projects/GTAOnline_Spy_Satellite_DLC_Navigation_Icons/shadow_hacker_group_icon.png) [Shadow Hacker Group Services - Top-Level Component View - GTA Online Spy Satellite DLC](https://github.com/edorejel/teaching_docs/blob/main/projects/gtaonline_spy_satellite_dlc_shadow_hacker_group_components_v8.pdf) 
