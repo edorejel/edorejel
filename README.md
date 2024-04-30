@@ -152,6 +152,7 @@
 ## My COVID-19 Analysis
 There are many ways of analyzing COVID-19's impact. COVID-19's weaponization, politicization, and overall behavioral tendencies are what I focused on using a Software Engineering perspective.
 - - - __COVID-19 Information__ [My COVID-19 Github Account](https://github.com/covid-cure/COVID-19/tree/main)
+- - - __H.A.B.I.T.__ - [Hypothetical Autonomous Biological and Identification Tracking Drone](https://github.com/edorejel/My-COVID-19-SWE-Proj-Data/tree/main/HABIT-Project)
 
 ## [Head First Software Design Patterns Solutions](https://github.com/edorejel/Head-First-Software-Design-Patterns#head-first-software-design-patterns)
 - - - Solutions to Head First Design Patterns - coming soon!!
