@@ -13,7 +13,11 @@
 - :point_right: Oh yeah, forgot to tell you, I'll be the best teacher/college lecturer that you could ever have. All my energy and effort are so that you become a successful college graduate. This is why Mr. O is Mr. O.
 
 # Music
-- 🎵 I'm always listening to this: [Legend by Otyken - Siberian Indigenous Music](https://www.youtube.com/watch?v=tXLoP9iSU5Y&list=RDtXLoP9iSU5Y)
+- 🎵 I'm always listening to this:
+- [Legend by Otyken - Siberian Indigenous Music](https://www.youtube.com/watch?v=tXLoP9iSU5Y&list=RDtXLoP9iSU5Y)
+- [Echo Sax End - [First Half 3-Hour Loop] - by Caleb Arredondo](https://www.youtube.com/watch?v=yBci2hmRHUA)
+- [Synthwave goose - Blade Runner 2049](https://youtu.be/_gYjh863j4g?si=_ECC-MoEOgAPFpHH)
+- [Simply Red – Something Got Me Started (1991 Hurley's House Mix)](https://youtu.be/-FycYxQZGCc?si=Tk-B33PiVAmUycff)
 
 # Currently Thinking About
 - 📚📝 A PhD in Computer Science (other degrees, too).
