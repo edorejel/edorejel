@@ -15,9 +15,13 @@
 # Music
 - 🎵 I'm always listening to this:
 - [Legend by Otyken - Siberian Indigenous Music](https://www.youtube.com/watch?v=tXLoP9iSU5Y&list=RDtXLoP9iSU5Y)
-- [Echo Sax End - [First Half 3-Hour Loop] - by Caleb Arredondo](https://www.youtube.com/watch?v=yBci2hmRHUA)
-- [Synthwave goose - Blade Runner 2049](https://youtu.be/_gYjh863j4g?si=_ECC-MoEOgAPFpHH)
-- [Simply Red – Something Got Me Started (1991 Hurley's House Mix)](https://youtu.be/-FycYxQZGCc?si=Tk-B33PiVAmUycff)
+- [Echo Sax End - First Half 3-Hour Loop - by Caleb Arredondo](https://www.youtube.com/watch?v=yBci2hmRHUA)
+- [Synthwave Goose - Blade Runner 2049](https://youtu.be/_gYjh863j4g?si=_ECC-MoEOgAPFpHH)
+- [Simply Red – Something Got Me Started (1991 Hurley's House Mix) - GTA Online](https://youtu.be/-FycYxQZGCc?si=Tk-B33PiVAmUycff)
+- [Kauf - When You're Out - GTA Online](https://youtu.be/CEwZKeN6pZM?si=5BsukgLTl5V7AVMX) *this is the song*
+- [Nina Dioz - Criminal Sound - GTA Online](https://youtu.be/Y4XR4BGO1qU?si=QGfZqvBjDjChPo9n)
+- [La liga ft. Alika - Yo Tengo el Don GTA V East Los FM - GTA Online](https://youtu.be/tfx0-HFLfvY?si=s0oPBI5ClkCbnBkt)
+- [Fresco Milkman - GTA Online](https://youtu.be/VUiIXaTzyAI?si=s7iSCtN0G4GQ43na)
 
 # Currently Thinking About
 - 📚📝 A PhD in Computer Science (other degrees, too).
