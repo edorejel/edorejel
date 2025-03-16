@@ -150,40 +150,21 @@ There are many ways of analyzing COVID-19's impact. COVID-19's weaponization, po
 - - - __COVID-19 Information__ [My COVID-19 Github Account](https://github.com/covid-cure/COVID-19/tree/main)
 - - - __H.A.B.I.T.__ - [Hypothetical Autonomous Biological and Identification Tracking Drone](https://github.com/edorejel/My-COVID-19-SWE-Proj-Data/tree/main/HABIT-Project)
 
-## [Head First Software Design Patterns Solutions](https://github.com/edorejel/Head-First-Software-Design-Patterns#head-first-software-design-patterns)
+## Software Design Patterns
+- [Head First Software Design Patterns Solutions](https://github.com/edorejel/Head-First-Software-Design-Patterns#head-first-software-design-patterns)
 - - - Solutions to Head First Design Patterns - coming soon!!
 
-## [Head First Object-Oriented Analysis & Design](https://github.com/edorejel/Head-First-Object-Oriented-Design/tree/main#head-first-object-oriented-analysis--design)
+## OOP Analysis & Design
+- [Head First Object-Oriented Analysis & Design](https://github.com/edorejel/Head-First-Object-Oriented-Design/tree/main#head-first-object-oriented-analysis--design)
 - - - Solutions to Head First Object-Oriented Analysis & Design - coming soon!!
 
-## [Head First Software Development](https://github.com/edorejel/Head-First-Object-Oriented-Design/tree/main#head-first-object-oriented-analysis--design)
+## Software Development
+- [Head First Software Development](https://github.com/edorejel/Head-First-Object-Oriented-Design/tree/main#head-first-object-oriented-analysis--design)
 - - - Solutions to Head First Software Development - coming soon!!
 
 ## [CLRS Algorithms Solutions](https://github.com/edorejel/CLRS-Algorithms-Solutions/tree/main#clrs-algorithms-solutions)
 - - - 4th Ed. Solutions coming soon!! [4th Edition Solutions](https://github.com/edorejel/CLRS-Algorithms-Solutions/tree/main/4th-edition-solutions#4th-edition-solutions)
 - - - 3rd Ed. Solutions coming soon!! [3rd Edition Solutions](https://github.com/edorejel/CLRS-Algorithms-Solutions/tree/main/3rd-edition-solutions#3rd-edition-solutions)
-
-## Computer Science Lectures and Video Lectures
-
-### HTML, CSS, JavaScript Lecture Notes :pencil:
-- - - __Front-end HTML, CSS, JavaScript Web Dev__ - [HTML - Sample Introductory Lesson to HTML Web Dev](https://github.com/edorejel/teaching_docs/blob/main/lecture-notes/html-web-dev/lesson_zero_html.pdf)
-    - __Sample HTML Coding Laboratory 0:__ - [HTML Coding Laboratory ](https://github.com/edorejel/teaching_docs/blob/main/lecture-notes/html-web-dev/labs/Laboratory%200%20-%20Your%20First%20HTML%20and%20CSS%20Documents.pdf)
-
-### Java Lecture Notes
-- - - Java Methods - coming soon!
-      
-### C++ Lecture Notes
-- - - C++ Functions - coming soon!
-
-### Python Lecture Notes
-- - - Python Functions - coming soon!
-- - - __Student Work Sample #3:__ [Reflective Open-Ended Essay Question #1 - Good vs Best Programs](https://github.com/edorejel/teaching_docs/blob/main/ssa_3.pdf)
-    -  __PDF Version of Sample #3:__ [Reflective Open-Ended Essay Question #1 - Good vs Best Programs](https://github.com/edorejel/teaching_docs/blob/main/ssa_3_py.pdf)
-      
-### General Computer Science Lecture Notes
-- - - Arrays - coming soon!
-- - - Object Oriented Programming - coming soon!
-   
 
 <!---
 edorejel/edorejel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
