@@ -28,6 +28,9 @@
 - - [Nina Dioz - Criminal Sound - GTA Online](https://youtu.be/Y4XR4BGO1qU?si=QGfZqvBjDjChPo9n)
 - - [La liga ft. Alika - Yo Tengo el Don GTA V East Los FM - GTA Online](https://youtu.be/tfx0-HFLfvY?si=s0oPBI5ClkCbnBkt)
 - - [Fresco Milkman - GTA Online](https://youtu.be/VUiIXaTzyAI?si=s7iSCtN0G4GQ43na)
+- - [Weekend (Slowed Mix) - Jordan Burns](https://youtu.be/QKKFpM0CiIw?si=Pho6CfDf2hpK7Rsj)
+- - [MONTAGEM CONGA CONGA (SLOWED + REVERB)](https://youtu.be/OTqePulzT9U?si=6Es-8uZ2ORv0oiAt)
+- - [Beat Do Pac-Man](https://youtu.be/_vgRwsffKGs?si=B0ON0T7lOYQNc2P5) 
 
 # Currently Thinking About
 - 📚📝 A PhD in Computer Science (other degrees, too).
