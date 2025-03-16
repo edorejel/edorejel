@@ -12,7 +12,7 @@
 - 🎯 My LinkedIn: https://www.linkedin.com/in/edorejel/
 - :point_right: Oh yeah, forgot to tell you, I'll be the best teacher/college lecturer that you could ever have. All my energy and effort are so that you become a successful college graduate. This is why Mr. O is Mr. O.
 
-  # College Adjunct Material
+# College Adjunct Material
 - 👉 college adjunct material: https://github.com/edorejel/college_adjunct_material/blob/main/README.md
 
 # Artificial Intelligence (AI)
