@@ -33,18 +33,9 @@
 - _No Automata Theory, no Software Engineery. Go cry!_ - Source: me.
 - _Without Computer Science, you will never be a software engineer. Stay mad!_ - Source: me.
 - _As a matter-of-fact, I do make the software that your IT department uses. What do you think Computer Scientists and Software Engineers do?_ - Source: me.
-
-# Academic Material 
-- :pencil: [My Sample Teaching Philosophy Statement](https://github.com/edorejel/teaching_docs/blob/main/teaching_philosophy_statement/teaching_statement_page_1.pdf) - _Page 1 of the Teaching Philosophy has been uploaded. The entire statement is given upon request with intent to hire!_
-- :pencil: [My Sample Inclusivity & Diversity Statement](https://github.com/edorejel/teaching_docs/blob/main/equity_diversity_statement/page_1_diversity_equity_statement.pdf) - _Page 1 of the statement has been uploaded. The entire statement is given upon request with intent to hire!_
-- :pencil: Training & Experience Statement - _given upon request with intent to hire!_
-- :pencil: Sample Syllabus: - _given upon request with intent to hire!_
-- - :pencil: Sample Canvas Online Course Modules - _given upon request with intent to hire!_
-- - - :pencil: C++ Sample Learning Unit - _given upon request with intent to hire!_
-- :pencil: CV - _given upon request with intent to hire!_
-- :nerd_face: Copies of Official Transcripts - _given upon request with intent to hire!_
  
 # My Personal Projects :pencil:
+- List soon to be updated; no real projects are ever revealed, however.  
 
 ## Home Software Systems
   
