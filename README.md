@@ -11,8 +11,11 @@
 - 📝 My Blog: https://edorejel.blogspot.com/
 - 🎯 My LinkedIn: https://www.linkedin.com/in/edorejel/
 - :point_right: Oh yeah, forgot to tell you, I'll be the best teacher/college lecturer that you could ever have. All my energy and effort are so that you become a successful college graduate. This is why Mr. O is Mr. O.
+
+  # College Adjunct Material
 - 👉 college adjunct material: https://github.com/edorejel/college_adjunct_material/blob/main/README.md
-# Music
+
+  # Music
 - 🎵 I'm always listening to this:
 - [Legend by Otyken - Siberian Indigenous Music](https://www.youtube.com/watch?v=tXLoP9iSU5Y&list=RDtXLoP9iSU5Y)
 - [Echo Sax End - First Half 3-Hour Loop - by Caleb Arredondo](https://www.youtube.com/watch?v=yBci2hmRHUA)
