@@ -31,7 +31,8 @@
 - - [Weekend (Slowed Mix) - Jordan Burns](https://youtu.be/QKKFpM0CiIw?si=Pho6CfDf2hpK7Rsj)
 - - - [MONTAGEM CONGA CONGA (SLOWED + REVERB)](https://youtu.be/OTqePulzT9U?si=6Es-8uZ2ORv0oiAt)
 - - [Beat Do Pac-Man](https://youtu.be/_vgRwsffKGs?si=B0ON0T7lOYQNc2P5)
-- - - [Phantogram - K.Y.S.A (The Lab)](https://youtu.be/KnxXmz7EQdM?si=OZkASuVlhXO5UWkz)  
+- - - [Phantogram - K.Y.S.A (The Lab)](https://youtu.be/KnxXmz7EQdM?si=OZkASuVlhXO5UWkz)
+- - [𝑨𝑵𝑨𝑹 𝑩𝑬𝑹𝑶 00│(Slowed + chaquetrix/carnitrix edit)](https://youtu.be/RfFlAxUsQP4?si=e1cNYHVNHbGm1r8O)  
 
 # Currently Thinking About
 - 📚📝 A PhD in Computer Science (other degrees, too).
