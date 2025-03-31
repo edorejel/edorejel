@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning a lot; learning never ends.
 
 # What Are You Doing Right Now
-- 🎮 Playing GTA Online! What else?
+- 🎮 Playing GTA Online! What else? I play GTA Online 24 hrs a day, 7 day a week (DGAF)!
 
 # Interview Etiquette
 - All interviews without proper time to prepare and without adequate details about the nature of the interview will be declined. Some exceptions may be made. Serious inquiries only. See [Interview Etiquette Link](https://github.com/edorejel/teaching_docs/blob/main/interview_etiquette/Screenshot%202024-01-08%20111712.png).
