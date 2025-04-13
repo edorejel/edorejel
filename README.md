@@ -23,8 +23,9 @@
 
   # Music
 - 🎵🎵 I'm always listening to this:
+- - - [Solomun (25/8) Matthew Dear - Monster](https://youtu.be/DBb3fZbfFrA?si=Erb-wMECAJMHgw5H) *this...*
 - - [𝐌𝐞𝐠𝐚 𝐓𝐫𝐞𝐩𝐚 𝐓𝐫𝐞𝐩𝐚 (𝐬𝐮𝐩𝐞𝐫 + 𝐬𝐥𝐨𝐰𝐞𝐝)](https://youtu.be/s_kRzq6tz8w?si=lAUFiAA2Nx97-1R3) *this is the know*
-- - [Legend by Otyken - Siberian Indigenous Music](https://www.youtube.com/watch?v=tXLoP9iSU5Y&list=RDtXLoP9iSU5Y)
+- - - [Legend by Otyken - Siberian Indigenous Music](https://www.youtube.com/watch?v=tXLoP9iSU5Y&list=RDtXLoP9iSU5Y)
 - - - [Echo Sax End - First Half 3-Hour Loop - by Caleb Arredondo](https://www.youtube.com/watch?v=yBci2hmRHUA)
 - - [Synthwave Goose - Blade Runner 2049](https://youtu.be/_gYjh863j4g?si=_ECC-MoEOgAPFpHH)
 - - - [Simply Red – Something Got Me Started (1991 Hurley's House Mix) - GTA Online](https://youtu.be/-FycYxQZGCc?si=Tk-B33PiVAmUycff)
