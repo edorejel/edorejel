@@ -22,7 +22,8 @@
 - generic information on artificial intelligence: https://github.com/edorejel/artificial_intelligence_AI/blob/main/README.md
 
   # Music
-- 🎵 I'm always listening to this:
+- 🎵🎵 I'm always listening to this:
+- - [𝐌𝐞𝐠𝐚 𝐓𝐫𝐞𝐩𝐚 𝐓𝐫𝐞𝐩𝐚 (𝐬𝐮𝐩𝐞𝐫 + 𝐬𝐥𝐨𝐰𝐞𝐝)](https://youtu.be/s_kRzq6tz8w?si=lAUFiAA2Nx97-1R3) *this is know*
 - - [Legend by Otyken - Siberian Indigenous Music](https://www.youtube.com/watch?v=tXLoP9iSU5Y&list=RDtXLoP9iSU5Y)
 - - - [Echo Sax End - First Half 3-Hour Loop - by Caleb Arredondo](https://www.youtube.com/watch?v=yBci2hmRHUA)
 - - [Synthwave Goose - Blade Runner 2049](https://youtu.be/_gYjh863j4g?si=_ECC-MoEOgAPFpHH)
@@ -33,9 +34,9 @@
 - - - [Fresco Milkman - GTA Online](https://youtu.be/VUiIXaTzyAI?si=s7iSCtN0G4GQ43na)
 - - [Weekend (Slowed Mix) - Jordan Burns](https://youtu.be/QKKFpM0CiIw?si=Pho6CfDf2hpK7Rsj)
 - - - [MONTAGEM CONGA CONGA (SLOWED + REVERB)](https://youtu.be/OTqePulzT9U?si=6Es-8uZ2ORv0oiAt)
-- - [Beat Do Pac-Man](https://youtu.be/_vgRwsffKGs?si=B0ON0T7lOYQNc2P5)
-- - - [Phantogram - K.Y.S.A (The Lab)](https://youtu.be/KnxXmz7EQdM?si=OZkASuVlhXO5UWkz)
-- - [𝑨𝑵𝑨𝑹 𝑩𝑬𝑹𝑶 00│(Slowed + chaquetrix/carnitrix edit)](https://youtu.be/RfFlAxUsQP4?si=e1cNYHVNHbGm1r8O)  
+- - [Beat Do Pac-Man](https://youtu.be/_vgRwsffKGs?si=B0ON0T7lOYQNc2P5) *hey, i gotcha*
+- - - [Phantogram - K.Y.S.A (The Lab)](https://youtu.be/KnxXmz7EQdM?si=OZkASuVlhXO5UWkz) *hey, without that smile, who knows what would've happened...*
+- - [𝑨𝑵𝑨𝑹 𝑩𝑬𝑹𝑶 00│(Slowed + chaquetrix/carnitrix edit)](https://youtu.be/RfFlAxUsQP4?si=e1cNYHVNHbGm1r8O)  *you don't have to tell me twice...*
 
 # Currently Thinking About
 - 📚📝 A PhD in Computer Science (other degrees, too).
