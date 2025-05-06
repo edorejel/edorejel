@@ -8,7 +8,7 @@
 - 🎮 Playing GTA Online! What else? I play GTA Online 24 hrs a day, 7 day a week (DGAF)!
 
 # Books For Python
-Some advice for Python!! (Python is a very advanced calculator!!!)
+__Some advice for Python!! (Python is a very advanced calculator!!!)__
 Python is used in many context, such as Calculus & Electrical Engineering. I use it for Calculus 1, 2, 3. Python is good for this; the coding is the same.
 
 Be able to output all known Trigonometric Identities found in Calculus 1, 2, and 3, and design them from scratch, including the graphs, without using any libraries found in Python.
