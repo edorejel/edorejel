@@ -16,7 +16,10 @@ That is, if you know secxtanx = secx + c, be able to show the graph using Python
 
 Make sure your angles are clear and correct, and you shouldn't have any issues. Thus, if you know what a 90 (degree) angle is, or a 180 (degree) angle is, or a 45 degree (angle), make sure your code reflects their actual shape, just like in the real-world. 
 
-A 45 degree (angle) is a 45 degree (angle) no matter how you look at it, but be able to display the picture of the graph, coded from scratch, and be able to do the same with the unit circle. 
+A 45 degree (angle) is a 45 degree (angle) no matter how you look at it, but be able to display the picture of the graph, coded from scratch, and be able to do the same with the unit circle. This means, you can find 45 degree (angles) in the real-world, and create a small program from your observation or gain new insight using Python, about your observation.
+
+A door sensor, is the easiest mechanism to start with Python, because you open and close doors and the door creates an angle every time, at every moment, even at rest. Thus, you would use Python for your door sensor so that it works correctly, when someone uses the door and the door sensor.
+
 - Books Computational Physics, Newman
 - Python for Machine Learning
 - online reference [http://www.scipy-lectures.org](http://www.scipy-lectures.org)
