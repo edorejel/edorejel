@@ -7,6 +7,12 @@
 # What Are You Doing Right Now
 - 🎮 Playing GTA Online! What else? I play GTA Online 24 hrs a day, 7 day a week (DGAF)!
 
+# Books For Python
+Python used for electrical engineering, but the coding is the same.
+- Books Computational Physics, Newman
+- Python for Machine Learning
+- online reference [http://www.scipy-lectures.org](http://www.scipy-lectures.org)
+
 # Interview Etiquette
 - All interviews without proper time to prepare and without adequate details about the nature of the interview will be declined. Some exceptions may be made. Serious inquiries only. See [Interview Etiquette Link](https://github.com/edorejel/teaching_docs/blob/main/interview_etiquette/Screenshot%202024-01-08%20111712.png).
  
