@@ -13,6 +13,13 @@ Python used for electrical engineering, but the coding is the same.
 - Python for Machine Learning
 - online reference [http://www.scipy-lectures.org](http://www.scipy-lectures.org)
 
+#  Books for C++
+
+#  Books for Java
+
+#  Books & Lecture Notes for OCaml
+
+
 # Interview Etiquette
 - All interviews without proper time to prepare and without adequate details about the nature of the interview will be declined. Some exceptions may be made. Serious inquiries only. See [Interview Etiquette Link](https://github.com/edorejel/teaching_docs/blob/main/interview_etiquette/Screenshot%202024-01-08%20111712.png).
  
