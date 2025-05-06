@@ -10,9 +10,12 @@
 # Books For Python
 Some advice for Python!! (Python is a very advanced calculator!!!)
 Python is used in many context, such as Calculus & Electrical Engineering. I use it for Calculus 1, 2, 3. Python is good for this; the coding is the same.
+
 Be able to output all known Trigonometric Identities found in Calculus 1, 2, and 3, and design them from scratch, including the graphs, without using any libraries found in Python.
 That is, if you know secxtanx = secx + c, be able to show the graph using Python, draw the graph from scratch, and be able to perform integration correctly, using Python. Do not use any libraries. 
+
 Make sure your angles are clear and correct, and you shouldn't have any issues. Thus, if you know what a 90 (degree) angle is, or a 180 (degree) angle is, or a 45 degree (angle), make sure your code reflects their actual shape, just like in the real-world. 
+
 A 45 degree (angle) is a 45 degree (angle) no matter how you look at it, but be able to display the picture of the graph, coded from scratch, and be able to do the same with the unit circle. 
 - Books Computational Physics, Newman
 - Python for Machine Learning
