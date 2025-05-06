@@ -24,6 +24,12 @@ A door sensor, is the easiest mechanism to start with Python, because you open a
 - Python for Machine Learning
 - online reference [http://www.scipy-lectures.org](http://www.scipy-lectures.org)
 
+# To Develop Python
+- Use the Windows Command Line to develop Python.
+- Use IDLE to develop Python.
+- Can also use Windows Power Shell.
+- Avoid any heavy IDEs for Python, until absolutely necessary.
+
 #  Books for C++
 
 #  Books for Java
