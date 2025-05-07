@@ -34,7 +34,7 @@ A door sensor, is the easiest mechanism to start with Python, because you open a
 Books coming soon!
 
 # Develop in C++
-Recreate these ocean waves, using DirectX (or OpenGL): [https://youtu.be/Xtf4seUACG8?si=gVMzl8hykiA2YD48](https://youtu.be/Xtf4seUACG8?si=gVMzl8hykiA2YD48).
+Recreate the ocean waves program shown in the picture below using DirectX (or OpenGL): [https://youtu.be/Xtf4seUACG8?si=gVMzl8hykiA2YD48](https://youtu.be/Xtf4seUACG8?si=gVMzl8hykiA2YD48).
 You can also use Unity for your ocean waves program. It is free and comes with Microsoft Visual Studio, but DirectX and OpenGL is a personal favorites. 
 The wave program will require a lot of math, and all major computer science concepts. 
 
@@ -42,11 +42,18 @@ The wave program will require a lot of math, and all major computer science conc
 Books coming soon.
 
 # Develop in Java
-Recreate these ocean waves, using Java: [https://youtu.be/Xtf4seUACG8?si=gVMzl8hykiA2YD48](https://youtu.be/Xtf4seUACG8?si=gVMzl8hykiA2YD48).
+Recreate the ocean waves program show in the image below using Java: [https://youtu.be/Xtf4seUACG8?si=gVMzl8hykiA2YD48](https://youtu.be/Xtf4seUACG8?si=gVMzl8hykiA2YD48).
 The program for it will require a lot of math, more than any real code, and the project should use all major Computer Science programming concepts, and major mathematical concepts, related to animations. DirectX and OpenGL can also be used because they provide a link to the computer hardware that is able to render graphics on the screen.
 
-# Sample Ocean Waves Program
-Recreate using Java or C++. Do not use Python.
+# Sample Ocean Waves Program to Create
+
+## First Question: 
+ How would you do it? 
+ 
+## Hint: 
+Do not worry about algorithm efficiency. The computer hardware will cause a heavy load on your computer, if you are able to create the waves as shown in the video and the image, so don't worry about that part of the program. DirectX and OpenGL both are designed to create the ocean waves. 
+ 
+# Recreate using Java or C++. Do not use Python. 
 
 ![ocean waves](https://github.com/edorejel/home_page_images/blob/main/ocean_waves_program.png)
 
