@@ -45,7 +45,7 @@ Books coming soon.
 Recreate these ocean waves, using Java: [https://youtu.be/Xtf4seUACG8?si=gVMzl8hykiA2YD48](https://youtu.be/Xtf4seUACG8?si=gVMzl8hykiA2YD48).
 The program for it will require a lot of math, more than any real code, and the project should use all major Computer Science programming concepts, and major mathematical concepts, related to animations. DirectX and OpenGL can also be used because they provide a link to the computer hardware that is able to render graphics on the screen.
 
-# Sample Ocean Wave Program
+# Sample Ocean Waves Program
 Recreate using Java or C++. Do not use Python.
 
 ![ocean waves](https://github.com/edorejel/home_page_images/blob/main/ocean_waves_program.png)
