@@ -30,11 +30,22 @@ A door sensor, is the easiest mechanism to start with Python, because you open a
 - Can also use Windows Power Shell.
 - Avoid any heavy IDEs for Python, until absolutely necessary.
 
-#  Books for C++
+# Books for C++
+Books coming soon!
+
+# Develop in C++
+Recreate these ocean waves, using DirectX (or OpenGL): [https://youtu.be/Xtf4seUACG8?si=gVMzl8hykiA2YD48](https://youtu.be/Xtf4seUACG8?si=gVMzl8hykiA2YD48).
+You can also use Unity for your ocean waves program. It is free and comes with Microsoft Visual Studio, but DirectX and OpenGL is a personal favorites. 
+The wave program will require a lot of math, and all major computer science concepts. 
 
 #  Books for Java
+Books coming soon.
 
-#  Books & Lecture Notes for OCaml
+# Develop in Java
+Recreate these ocean waves, using Java: [https://youtu.be/Xtf4seUACG8?si=gVMzl8hykiA2YD48](https://youtu.be/Xtf4seUACG8?si=gVMzl8hykiA2YD48).
+The program for it will require a lot of math, more than any real code, and the project should use all major Computer Science programming concepts, and major mathematical concepts, related to animations. DirectX and OpenGL can also be used because they provide a link to the computer hardware that is able to render graphics on the screen.
+
+# Books & Lecture Notes for OCaml
 
 
 # Interview Etiquette
