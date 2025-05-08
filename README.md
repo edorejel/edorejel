@@ -48,9 +48,16 @@ The program for it will require a lot of math, more than any real code, and the 
 # Sample Java (or C++) Application
 
 Reading "digital light" from video recording camera, as it passes into the software to be interpreted using Java (or C++). 
+
+# A Few Questions For Video Editing Software using Java
+- How would you access the chip to write your Java code, and how would you write your Java code? 
+- What data structures in Java would you use?
+- How would you enable the microchip to detect light, to then convert the light into a digital signal that is then read using Java?
 - Image of video camera shown below:
 ![video camera](https://github.com/edorejel/home_page_images/blob/main/video_camera_photo.png)
 
+- Image of microchip for video camera shown below:
+![video camera microchip](https://github.com/edorejel/home_page_images/blob/main/video_camera_microchip.png)
 
 # Sample Ocean Waves Program to Create
 
