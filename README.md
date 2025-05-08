@@ -45,6 +45,13 @@ Books coming soon.
 Recreate the ocean waves program show in the image below using Java: [https://youtu.be/Xtf4seUACG8?si=gVMzl8hykiA2YD48](https://youtu.be/Xtf4seUACG8?si=gVMzl8hykiA2YD48).
 The program for it will require a lot of math, more than any real code, and the project should use all major Computer Science programming concepts, and major mathematical concepts, related to animations. DirectX and OpenGL can also be used because they provide a link to the computer hardware that is able to render graphics on the screen.
 
+# Sample Java (or C++) Application
+
+Reading "digital light" from video recording camera, as it passes into the software to be interpreted using Java (or C++). 
+- Image of video camera shown below:
+![video camera](https://github.com/edorejel/home_page_images/blob/main/video_camera_photo.png)
+
+
 # Sample Ocean Waves Program to Create
 
 ## First Question: 
