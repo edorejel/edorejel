@@ -54,16 +54,18 @@ Reading "digital light" from video recording camera, as it passes into the softw
 - What data structures in Java would you use?
 - How would you enable the microchip to detect light from the lens, to then convert the light into a digital signal that is then read using Java?
 - How would you use Java to be able to create an image from a light source, passing through a video recording camera?
+- How would you use Java or C++ to be able to render waves, passing through as light, into the video camera recorder, so that you see the waves, while looking through the camera, and the video camera can record the waves, and turn them into a digital format?
 - - The above questions are profound, please think about them, in relation to Java (or C++).
-- Image of video camera shown below:
+# Image of video camera shown below:
 
   
 
 
 ![video camera](https://github.com/edorejel/home_page_images/blob/main/video_camera_photo.png)
 
-- Image of microchip for video camera shown below:
+# Image of microchip for video camera shown below:
 ![video camera microchip](https://github.com/edorejel/home_page_images/blob/main/video_camera_microchip.png)
+
 
 # Sample Ocean Waves Program to Create
 
