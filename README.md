@@ -55,6 +55,7 @@ Reading "digital light" from video recording camera, as it passes into the softw
 - How would you enable the microchip to detect light from the lens, to then convert the light into a digital signal that is then read using Java?
 - How would you use Java to be able to create an image from a light source, passing through a video recording camera?
 - - The above questions are profound, please think about them, in relation to Java (or C++).
+
 - Image of video camera shown below:
 ![video camera](https://github.com/edorejel/home_page_images/blob/main/video_camera_photo.png)
 
