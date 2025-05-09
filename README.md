@@ -21,7 +21,14 @@ Important,please read!! Disclaimer, FOREX TRADING is not bitcoin. Matter-of-fact
   
   This means you study the currencies of other countries, such as Russia, China, Europe, and America, to see how their money measures against each other, and you trade the currency in a way that you can earn the most money, from your trade.
   
-  __Please see this link to learn more:__ [https://www.schwab.com/forex/what-is-forex](https://www.schwab.com/forex/what-is-forex)
+  ## Please see these links to learn more:
+  
+  There are many resources online to help you learn FOREX, please see the links below for a small batch of information to learn from:
+  ### What is FOREX?
+  - [https://www.schwab.com/forex/what-is-forex](https://www.schwab.com/forex/what-is-forex)
+
+  ### Investopedia - WHY TRADE FOREX?
+  - [https://www.investopedia.com/articles/forex/11/why-trade-forex.asp](https://www.investopedia.com/articles/forex/11/why-trade-forex.asp)
 
   # Google - What is FOREX TRADING
   You can also Google what FOREX TRADING is, but you would have to research the banks and currencies of Russia, Japan, and China, for example, if you want to trade with them.
