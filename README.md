@@ -22,12 +22,23 @@ Important,please read!! Disclaimer, FOREX TRADING is not bitcoin. Matter-of-fact
   This means you study the currencies of other countries, such as Russia, China, Europe, and America, to see how their money measures against each other, and you trade the currency in a way that you can earn the most money, from your trade.
   
   ## Please see these links to learn more:
+
+You would study the currencies of each country, make little charts and calculations, to figure out which currency to trade. Once again, this is not financial advice, I am only approaching this information from a Computer Science, Math, and Computational perspective, but the information is easy to learn, if you study it for a little bit. 
+
+ ## Russia' Currency is the Ruble
+  - [https://wise.com/gb/currency-converter/currencies/rub-russian-ruble](https://wise.com/gb/currency-converter/currencies/rub-russian-ruble)
+ 
+ ## China's Currency is the Yuan
+  - [https://wise.com/gb/travel-money/chinese-currency](https://wise.com/gb/travel-money/chinese-currency)
+ 
+ ## Mexico's Currency is the Peso
+ - [https://wise.com/gb/travel-money/mexican-currency](https://wise.com/gb/travel-money/mexican-currency)
   
   There are many resources online to help you learn FOREX, please see the links below for a small batch of information to learn from:
-  ### What is FOREX?
+  ## What is FOREX?
   - [https://www.schwab.com/forex/what-is-forex](https://www.schwab.com/forex/what-is-forex)
 
-  ### Investopedia - WHY TRADE FOREX?
+  ## Investopedia - WHY TRADE FOREX?
   - [https://www.investopedia.com/articles/forex/11/why-trade-forex.asp](https://www.investopedia.com/articles/forex/11/why-trade-forex.asp)
 
   # Google - What is FOREX TRADING
