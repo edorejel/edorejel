@@ -48,7 +48,9 @@ You would study the currencies of each country, make little charts and calculati
 
   You, would then code small programs, in Java, C++, Python, or OCaml, to process all of the transactions correctly, or learn to track the currencies to "earn on your own, and be your own boss, and your own investor!!"
 
-  # More Information on FOREX TRADING expected, but you can always find good resources online. As stated previously, this is not financial advice, just information. As stated previously, FOREX TRADING IS LEGAL AND LEGITIMATE, YOU GO THROUGH A BANK. IT IS NOT BITCOIN. DO NOT USE BITCOIN AT ALL - BITCOIN IS A SCAM.   
+  # More Information on FOREX TRADING expected, but you can always find good resources online. 
+  
+  # As stated previously, this is not financial advice, just information. As stated previously, FOREX TRADING IS LEGAL AND LEGITIMATE, YOU GO THROUGH A BANK. IT IS NOT BITCOIN. DO NOT USE BITCOIN AT ALL - BITCOIN IS A SCAM.   
 
 # Books For Python Development 
 __Some advice for Python!! (Python is a very advanced calculator!!!)__
