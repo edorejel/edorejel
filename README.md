@@ -28,7 +28,7 @@ Important,please read!! Disclaimer, FOREX TRADING is not bitcoin. Matter-of-fact
 
   You, would then code small programs, in Java, C++, Python, or OCaml, to process all of the transactions correctly, or learn to track the currencies to "earn on your own, and be your own boss, and your own investor!!"
 
-  # More Information on FOREX TRADING expected, but you can always find good resources online. As stated previously, this is not financial advice. 
+  # More Information on FOREX TRADING expected, but you can always find good resources online. As stated previously, this is not financial advice, just information.  
 
 # Books For Python Development 
 __Some advice for Python!! (Python is a very advanced calculator!!!)__
