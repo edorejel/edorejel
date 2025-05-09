@@ -13,6 +13,8 @@ Simple applications for Java, C++, Python, OCaml, Calculus, and math.
 
 ## 1st Application - FOREX TRADING - (PLEASE RESEARCH THIS ON YOUR OWN, I AM NOT RESPONSIBLE FOR YOUR FINANCIAL DECISIONS. THIS IS NOT FINANCIAL ADVICE!!)
 
+## DISCLAIMER: FOREX TRADING IS LEGITIMATE AND LEGAL! IT IS NOT BITCOIN. DO NOT USE BITCOIN AT ALL. WITH FOREX TRADING, YOU ACTUALLY GO THROUGH A BANK.
+
 Important,please read!! Disclaimer, FOREX TRADING is not bitcoin. Matter-of-factly, do not use bitcoin at all, and do not invest in it. Further, if you can learn about bitcoin, you can learn about FOREX TRADING, which is 100% legitimate and legal, you would just have to brush up on current events or events that affect the currencies that you are using to invest, at a minimum, this is what you would have to do. 
   
   # Brief Explanation - What is FOREX TRADING?
