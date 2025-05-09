@@ -7,6 +7,29 @@
 # What Are You Doing Right Now
 - 🎮 Playing GTA Online! What else? I play GTA Online 24 hrs a day, 7 day a week (DGAF)!
 
+# Sample Applications for Java, C++, Python, and OCaml (there may be others)
+
+Simple applications for Java, C++, Python, OCaml, Calculus, and math. 
+
+## 1st Application - FOREX TRADING - (PLEASE RESEARCH THIS ON YOUR OWN, I AM NOT RESPONSIBLE FOR YOUR FINANCIAL DECISIONS. THIS IS NOT FINANCIAL ADVICE!!)
+
+Important,please read!! Disclaimer, FOREX TRADING is not bitcoin. Matter-of-factly, do not use bitcoin at all, and do not invest in it. Further, if you can learn about bitcoin, you can learn about FOREX TRADING, which is 100% legitimate and legal, you would just have to brush up on current events or events that affect the currencies that you are using to invest, at a minimum, this is what you would have to do. 
+  
+  # Brief Explanation - What is FOREX TRADING?
+  
+  Forex trading is buying and selling money from two different countries, hoping for a profit as their values go up and down. You trade one form of money, for another form of money, and earn money while you do it.
+  
+  This means you study the currencies of other countries, such as Russia, China, Europe, and America, to see how their money measures against each other, and you trade the currency in a way that you can earn the most money, from your trade.
+  
+  __Please see this link to learn more:__ [https://www.schwab.com/forex/what-is-forex](https://www.schwab.com/forex/what-is-forex)
+
+  # Google - What is FOREX TRADING
+  You can also Google what FOREX TRADING is, but you would have to research the banks and currencies of Russia, Japan, and China, for example, if you want to trade with them.
+
+  You, would then code small programs, in Java, C++, Python, or OCaml, to process all of the transactions correctly, or learn to track the currencies to "earn on your own, and be your own boss, and your own investor!!"
+
+  # More Information on FOREX TRADING expected, but you can always find good resources online. As stated previously, this is not financial advice. 
+
 # Books For Python Development 
 __Some advice for Python!! (Python is a very advanced calculator!!!)__
 Python is used in many context, such as Calculus & Electrical Engineering. I use it for Calculus 1, 2, 3. Python is good for this; the coding is the same.
