@@ -6,6 +6,8 @@
 
 # What Are You Doing Right Now
 - 🎮 Playing GTA Online! What else? I play GTA Online 24 hrs a day, 7 day a week (DGAF)!
+- ▶️ More than likely, designing with intent to release GTA Online Part II spin-off, and maybe a prequal to GTA Online (also a spin-off), I don't like where GTA VI is going (all about Califas, East Los, Los Santos, Vinewood Hills, Northen San Andreas scenic routes!!).
+- 👉 GTA Online needs to be in Las Vegas, so I might design my "spin-offs" there. Traveling from Los Santos to Las Vegas needs to happen in GTA Online.  
 
 # Sample Applications for Java, C++, Python, and OCaml (there may be others)
 
